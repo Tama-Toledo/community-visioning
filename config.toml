@@ -1,4 +1,4 @@
-baseURL = "https://tamatoledo.org/community-visioning/"
+# baseURL = "https://cv.tamatoledo.org/
 title = "Tama-Toledo Community Visioning"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
@@ -42,7 +42,7 @@ theme="bootstrap-bp-hugo-theme"
   name = "Mackenzie McFate"
 
 [params]
-  bannerImage = "/images/banner1.jpg"
+  bannerImage = "/images/banner1.png"
   description = "Copyright © 2021. All Rights Reserved. Original design by Mark A. McFate"
   #images = ["logo.jpg"]
   # showPostSummary = true

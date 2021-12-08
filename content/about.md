@@ -1,27 +1,55 @@
 ---
 title: About Us
-date: 2020-03-03T14:37:15-06:00
+date: 2021-12-07T15:44:56-06:00
 ---
 
-The **STC Recreational Program** was established in 1976. It is a nonprofit organization and is supported by the taxpayers of Tama and Toledo. STC REC is available to all youth in grades K-8 (depending on the sport) within the STC School District. The REC program strives to improve program availability, facilities, and equipment. Some past improvements include: adding a batting cage, scoreboards, and fencing improvements. STC REC is managed by a board of seven member/volunteers who meet regularly. If a person is interested in becoming a board member, contact a board member or the board president.
+Iowa is perhaps the only state in the U.S. that has a sustained [Community Visioning](https://communityvisioning.org) program.  Their mission...
 
-Several recreational programs are offered to the youth throughout the year.
+| Iowa's Community Visioning: |
+| --- |
+| We help small Iowa communities bridge the gap between the demand and availability of design resources needed to improve transportation systems. |
 
-In the Spring/Summer we offer:
+&nbsp;  
+  
+# Tama-Toledo Community Visioning
 
-  - T-Ball,
-  - Baseball,
-  - Softball,
-  - Volleyball,
-  - Speed & Agility,
-  - Golf,
-  - Tennis, and
-  - Soccer
+Upon completion of our 2021 "program year" with [Community Visioning](https://communityvisioning.org), it was clear to the Tama and Toledo CV steering committees that we need to work together to address the needs of our broader Tama-Toledo community.  This group, Tama-Toledo Community Visioning, coalesced from two original city-specific steering committees who shared a common goal.
 
-In the Fall we offer:
+## Original Tama CV Steering Committee
 
-  - Soccer,
-  - Flag Football, and
-  - Basketball.
+Tama's original steering committee consisted of:
 
-See schedule for grades, dates and times offered for each sport.  **STC REC Program** strives to make REC affordable for families while continuing to be financially responsible. The cost for most sports is $25 except for those sports with longer seasons. A free t-shirt is also included for each sport. Transportation is provided in the summer (June sports only) in many areas in the community for pick-up and return.
+  - Matthew Beatty
+  - Shayna Zmolek
+  - Mike Carnahan
+  - Laura Galvez
+  - Karen Mixdorf
+  - Jerimi Kopsa
+  - Dave Cantonwine
+  - Sue Harrington
+  - Jennifer Perez
+  - Warren & Shelly Riley
+  - Lori Baier
+  - Sierra Berger
+  - Jonathan Meyer
+  - Max Schirmer
+  - Aubrey Rhinehart
+  - Daniel Rodriguez-Rivera
+
+## Original Toledo CV Steering Committee
+
+Toledo's original steering committee consisted of:
+
+  - Denise Fletcher
+  - Darvin Graham
+  - Kendall Jordan
+  - Sarah Kenkel
+  - Trudy Koch
+  - Mark McFate
+  - Travis Mullen
+  - Sarahi Perez
+  - Marilyn Rippy
+  - Jeff Shaw
+  - Bill Skow
+  - Dorothy Jo Zmolek
+  
