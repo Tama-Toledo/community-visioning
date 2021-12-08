@@ -14,7 +14,7 @@ This is POST _Test-Post.md_.  Just a test of the site's `post` content type.  Th
 
 Posts can contain any _Markdown_ (`.md`) elements like tables, and block quotes.  
 
-| Noumber | Description |
+| Number | Description |
 | --- | --- |
 | 1 | This is a simple 2-column table. |  
 
@@ -23,3 +23,7 @@ Posts can contain any _Markdown_ (`.md`) elements like tables, and block quotes.
 ```
 And this is a block quote.
 ```
+
+{{< box "bold" >}}
+Check out our initial page of [Plans](https://cv.tamatoledo.org/plan/)!
+{{< /box >}}

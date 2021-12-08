@@ -1,5 +1,5 @@
 ---
-title: "Committee Meeting with Region 6"
+title: "Steering Committees Meeting with Region 6"
 type: event
 date: 2021-12-08
 startTime: "4pm"
