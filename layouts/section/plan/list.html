@@ -1,5 +1,5 @@
 {{- define "main" -}}
-{{ `<!-- enter: layouts/list.html -->` | safeHTML }}
+{{ `<!-- enter: layouts/section/plan/list.html -->` | safeHTML }}
 
 
 {{ $customDateFormat := "02.01.2006" }}
@@ -8,20 +8,20 @@
 
 <div class="container mt-3 mb-3">
     {{ if .Site.Params.showListsGrouped }}
-        {{ `<!-- if .Site.Params.showListsGrouped: layouts/list.html -->` | safeHTML }}
+        {{ `<!-- if .Site.Params.showListsGrouped: layouts/section/plan/list.html -->` | safeHTML }}
         <div class="mb-3">       
             <div class="card">
                 <div class="card-body">
                     <h1>{{ $sitetitle }}</h1>
                     {{ range $key, $value := .Pages.GroupByDate "2006" }}
-                      {{ `<!-- range $key, $value := .Pages.GroupByDate "2006": layouts/list.html -->` | safeHTML }}
+                      {{ `<!-- range $key, $value := .Pages.GroupByDate "2006": layouts/section/plan/list.html -->` | safeHTML }}
                         <a href="#{{ .Key | urlize }}" class="badge badge-primary"><span>{{ .Key }}</span> <span class="badge badge-light">{{ len .Pages }}</span></a>
                     {{ end}}
                 </div>
             </div>
         </div>
         {{ range .Pages.GroupByDate "2006" }} 
-          {{ `<!-- range .Pages.GroupByDate "2006": layouts/list.html -->` | safeHTML }}
+          {{ `<!-- range .Pages.GroupByDate "2006": layouts/section/plan/list.html -->` | safeHTML }}
             <div class="mb-3">    
                 <div class="card">
                     <div class="card-body">  
@@ -36,7 +36,7 @@
             </div>
         {{ end }}
     {{ else }}
-      {{ `<!-- else: layouts/list.html -->` | safeHTML }}
+      {{ `<!-- else: layouts/section/plan/list.html -->` | safeHTML }}
         <div class="mb-3">    
             <div class="card">
                 <div class="card-body">  
@@ -44,7 +44,7 @@
                     <ul>
                         {{/* range .Pages.ByPublishDate.Reverse */}}
                         {{ range .Pages.ByWeight }}
-                          {{ `<!-- range .Pages.ByWeight: layouts/list.html -->` | safeHTML }}
+                          {{ `<!-- range .Pages.ByWeight: layouts/section/plan/list.html -->` | safeHTML }}
                             <li>{{ .PublishDate.Format $customDateFormat }} - <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
                         {{ end}}
                     </ul>
@@ -54,5 +54,5 @@
     {{ end }}
 </div>
 
-{{ `<!-- exit: layouts/list.html -->` | safeHTML }}
+{{ `<!-- exit: layouts/section/plan/list.html -->` | safeHTML }}
 {{- end -}}

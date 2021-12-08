@@ -2,7 +2,9 @@
 {{ `<!-- ENTER: layouts/index.html -->` | safeHTML }}
 
 <div class="container mt-3 mb-3">
-    {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "!=" "page") }}
+    {{/* $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "!=" "page") */}}
+    {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "in" (slice "post" "event")) }}
+
     {{ if .Site.Params.startPageColumns }}
         <div class="card-columns">
             {{ range $paginator.Pages }}

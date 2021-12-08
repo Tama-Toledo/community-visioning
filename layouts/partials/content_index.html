@@ -1,0 +1,16 @@
+{{ `<!-- ENTER: layouts/partials/content_index.html -->` | safeHTML }}
+<div class="card">
+    {{ $startPageColumns := .Site.Params.startPageColumns }}
+    {{ .Scratch.Set "fullsize" (not $startPageColumns) }}
+    {{- partial "content_card_header.html" . -}}
+
+    {{ if eq .Type "event" }}
+      <span class="event-date-time">{{ .Params.Date.Format "January 2" }} from {{ .Params.startTime }} - {{ .Params.endTime }} at {{ .Params.location }}, {{ .Params.city }}</span>
+    {{ end }}
+
+    {{ .Scratch.Set "showPostSummary" .Site.Params.showPostSummary }}
+    {{- partial "content_card_body.html" . -}}
+
+    {{- partial "content_card_footer.html" . -}}
+</div>
+{{ `<!-- EXIT: layouts/partials/content_index.html -->` | safeHTML }}

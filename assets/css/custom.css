@@ -165,3 +165,8 @@ div.build-info {
   font-size: smaller;
   text-align: center;
 }
+
+span.event-date-time {
+  padding: 5px 15px;
+  font-weight: bold; 
+}

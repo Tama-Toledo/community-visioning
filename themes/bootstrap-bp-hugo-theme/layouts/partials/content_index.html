@@ -1,3 +1,4 @@
+{{ `<!-- ENTER: <theme>/layouts/partials/content_index.html -->` | safeHTML }}
 <div class="card">
     {{ $startPageColumns := .Site.Params.startPageColumns }}
     {{ .Scratch.Set "fullsize" (not $startPageColumns) }}
@@ -8,3 +9,4 @@
 
     {{- partial "content_card_footer.html" . -}}
 </div>
+{{ `<!-- EXIT: <theme>/layouts/partials/content_index.html -->` | safeHTML }}

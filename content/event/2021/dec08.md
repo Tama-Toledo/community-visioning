@@ -1,5 +1,5 @@
 ---
-title: "Tama-Toledo Joint Committee Meeting with Region 6"
+title: "Committee Meeting with Region 6"
 type: event
 date: 2021-12-08
 startTime: "4pm"
@@ -9,8 +9,8 @@ city: "Toledo, IA"
 venues:
   - Reinig Center
   - Toledo
-description: "The committees have an opportunity to meet with Marty Wymore from Region 6 Planning to discuss our plans moving forward."
 draft: false
+expiryDate: 2021-12-09
 ---
 
 The original committees from Tama and Toledo have an opportunity to meet with Marty Wymore from Region 6 Planning to discuss our plans moving forward.

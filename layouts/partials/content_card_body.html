@@ -1,4 +1,4 @@
-{{ `<!-- ENTER: <theme>/layouts/partials/content_card_body.html -->` | safeHTML }}
+{{ `<!-- ENTER: layouts/partials/content_card_body.html -->` | safeHTML }}
 {{ $customDateFormat := "02.01.2006" }}
 {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
 
@@ -33,7 +33,10 @@
              (<i class="fas fa-clock"></i>&nbsp;~{{ .ReadingTime }} Min.)
         {{end}}
     {{ else }}
-        <p class="card-text">{{ .Content }}</p>
+      {{ if eq .Type "event" }}
+        <span class="event-date-time">{{ .Params.Date.Format "January 2" }} from {{ .Params.startTime }} - {{ .Params.endTime }} at {{ .Params.location }}, {{ .Params.city }}</span>
+      {{ end }}
+      <p class="card-text">{{ .Content }}</p>
     {{ end }}
 </div>
-{{ `<!-- ENTER: <theme>/layouts/partials/content_card_body.html -->` | safeHTML }}
+{{ `<!-- ENTER: layouts/partials/content_card_body.html -->` | safeHTML }}

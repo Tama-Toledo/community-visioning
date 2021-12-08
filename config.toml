@@ -87,12 +87,12 @@ theme="bootstrap-bp-hugo-theme"
     weight = 10
     pre = "<i class='fas fa-school'></i>"
 
-  # [[menu.main]]
-  #   identifier = "schedules"
-  #   name = "Schedules"
-  #   url = "/schedules/"
-  #   weight = 15
-  #   pre = "<i class='fas fa-calendar-alt'></i>"
+  [[menu.main]]
+    identifier = "plan"
+    name = "Plans"
+    url = "/plan/"
+    weight = 15
+    pre = "<i class='fas fa-drafting-compass'></i>"
   # 
   # [[menu.main]]
   #   identifier = "registration"
