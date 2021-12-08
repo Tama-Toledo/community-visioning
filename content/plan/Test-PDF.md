@@ -11,4 +11,4 @@ weight: 2
 ---
 This is PLAN _Test-PDF.md_.   Weight = 2
 
-{{< embed-pdf url="pdfs/01_TamaToledo_ProgramOverview-Binder.pdf" >}}
+{{< embed-pdf url="../../pdfs/01_TamaToledo_ProgramOverview.pdf" >}}
