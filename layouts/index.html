@@ -1,87 +1,24 @@
 {{ define "main" }}
-{{ `<!-- enter: layouts/index.html -->` | safeHTML }}
+{{ `<!-- ENTER: layouts/index.html -->` | safeHTML }}
 
 <div class="container mt-3 mb-3">
-  <div class="card">
-    <div class="card-body">
-      <h1 class="card-title">
-        Welcome!
-      </h1>
-
-      <div class="welcome">
-        <p>{{ "Welcome to **Tama-Toledo Community Visioning**!" | markdownify }}</p>
-        <p>{{ "In 2021 two groups of Tama and Toledo residents volunteered to work with [Iowa's Living Roadways Community Visioning](https://communityvisioning.org) program to help shape the future of safe transportation and recreation opportunities in Tama and Toledo, together." | markdownify }}</p>
-
-        <div class="welcome-image">
-          <img src=""></img>
-        </div>
-
-        </div>
-      </div>
-      <div class="card-footer"></div>
-    </div>
-
-    <div class="card">
-      <div class="card-body">
-        <h2 class="card-title"> Dates to Remember </h2>
-
-        <ul class="upcoming-events">
-          {{ $.Scratch.Set "counter" 0 }}
-          {{ range (where .Site.RegularPages.ByDate "Type" "event") }}
-            {{ $edate := add .Date.Unix 86400 }}
-            {{ if ge $edate now.Unix }}
-              {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-              <div class="keep-together">
-                <li class="event">
-                  <span class="event-line-1">
-                    <a href="{{ .Permalink }}">
-                      {{ if eq .Date.Year now.Year }}
-                        {{ .Title }} <span class="nowrap">- {{ .Date.Format "Monday, Jan 2" }}</span></a>
-                      {{ else }}
-                        {{ .Title }} <span class="nowrap">- {{ .Date.Format "Monday, Jan 2, 2006" }}</span></a>
-                      {{ end }}
-                  </span>
-                  <br/>
-                  <span class="event-line-2">
-                    &nbsp;&nbsp; <span class="nowrap">{{ .Params.startTime }} to {{ .Params.endTime }}</span> <span class="nowrap">&bullet; {{ .Params.location }}</span> <span class="nowrap">&bullet; {{ .Params.city }}</span>
-                  </span>
-                </li>
-              </div>
+    {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "!=" "page") }}
+    {{ if .Site.Params.startPageColumns }}
+        <div class="card-columns">
+            {{ range $paginator.Pages }}
+                {{- partial "content_index.html" . -}}
             {{ end }}
-          {{ end }}
-          {{ if eq ($.Scratch.Get "counter") 0 }}
-            <div class="keep-together">
-              <li class="event">
-                Sorry, there are no future events to report at this time.
-              </li>
+        </div>
+    {{ else }}
+        {{ range $paginator.Pages }}
+            <div class="mb-3">
+                {{- partial "content_index.html" . -}}
             </div>
-          {{ end }} 
-        </ul>
-      </div>
-      <div class="card-footer"></div>
-    </div>
-
-  {{ `<!-- create $paginator: layouts/index.html -->` | safeHTML }}
-  {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "eq" "post") }}
-  {{ if .Site.Params.startPageColumns }}
-    {{ `<!-- .Site.Params.startPageColumns: layouts/index.html -->` | safeHTML }}
-    <div class="card-columns">
-      {{ range $paginator.Pages }}
-        {{- partial "content_index.html" . -}}
-      {{ end }}
-    </div>
-  {{ else }}
-    {{ `<!-- not .Site.Params.startPageColumns: layouts/index.html -->` | safeHTML }}
-    {{ range $paginator.Pages }}
-      <div class="mb-3">
-        {{- partial "content_index.html" . -}}
-      </div>
+        {{ end }}
     {{ end }}
-  {{ end }}
 
-  {{ `<!-- template _internal/pagination.html: layouts/index.html -->` | safeHTML }}
-  {{ template "_internal/pagination.html" . }}
+    {{ template "_internal/pagination.html" . }}
 </div>
 
-{{ `<!-- exit: layouts/index.html -->` | safeHTML }}
+{{ `<!-- EXIT: layouts/index.html -->` | safeHTML }}
 {{ end }}

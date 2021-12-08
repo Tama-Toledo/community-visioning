@@ -1,5 +1,6 @@
 {{- define "main" -}}
-{{ `<!-- enter: layouts/_default/list.html -->` | safeHTML }}
+{{ `<!-- enter: layouts/list.html -->` | safeHTML }}
+
 
 {{ $customDateFormat := "02.01.2006" }}
 {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
@@ -7,17 +8,20 @@
 
 <div class="container mt-3 mb-3">
     {{ if .Site.Params.showListsGrouped }}
+        {{ `<!-- if .Site.Params.showListsGrouped: layouts/list.html -->` | safeHTML }}
         <div class="mb-3">       
             <div class="card">
                 <div class="card-body">
                     <h1>{{ $sitetitle }}</h1>
                     {{ range $key, $value := .Pages.GroupByDate "2006" }}
+                      {{ `<!-- range $key, $value := .Pages.GroupByDate "2006": layouts/list.html -->` | safeHTML }}
                         <a href="#{{ .Key | urlize }}" class="badge badge-primary"><span>{{ .Key }}</span> <span class="badge badge-light">{{ len .Pages }}</span></a>
                     {{ end}}
                 </div>
             </div>
         </div>
         {{ range .Pages.GroupByDate "2006" }} 
+          {{ `<!-- range .Pages.GroupByDate "2006": layouts/list.html -->` | safeHTML }}
             <div class="mb-3">    
                 <div class="card">
                     <div class="card-body">  
@@ -32,12 +36,15 @@
             </div>
         {{ end }}
     {{ else }}
+      {{ `<!-- else: layouts/list.html -->` | safeHTML }}
         <div class="mb-3">    
             <div class="card">
                 <div class="card-body">  
                     <h1>{{ .Title }}</h1>
                     <ul>
-                        {{ range .Pages.ByPublishDate.Reverse }}
+                        {{/* range .Pages.ByPublishDate.Reverse */}}
+                        {{ range .Pages.ByWeight }}
+                          {{ `<!-- range .Pages.ByWeight: layouts/list.html -->` | safeHTML }}
                             <li>{{ .PublishDate.Format $customDateFormat }} - <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
                         {{ end}}
                     </ul>
@@ -47,5 +54,5 @@
     {{ end }}
 </div>
 
-{{ `<!-- exit: layouts/_default/list.html -->` | safeHTML }}
+{{ `<!-- exit: layouts/list.html -->` | safeHTML }}
 {{- end -}}

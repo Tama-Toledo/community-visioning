@@ -18,7 +18,7 @@
 {{ end }}
 
 {{ $cssbootstrap := resources.Get (printf "/css/bootstrap-%s.min.css" $themeColor) }}
-{{ $cssfontawesome := resources.Get "/css/fontawesome-free-5.10.1-web-all.min.css" }}
+{{ $cssfontawesome := resources.Get "/css/fontawesome-free-5.13.0-web-all.min.css" }}
 {{ $cssmain := resources.Get "/css/main.css" }}
 {{ $csstheme := resources.Get (printf "/css/main-%s.css" $themeColor) }}
 {{ $customcss := resources.Get "/css/custom.css" }}
@@ -26,6 +26,10 @@
 <link rel="stylesheet" href="{{ $allcss.RelPermalink }}" integrity="{{ $allcss.Data.Integrity }}">
 
 {{- range .Site.Params.csscdn }}
+    <link rel="stylesheet" href="{{ . }}">
+{{- end }}
+
+{{- range .Params.csscdn }}
     <link rel="stylesheet" href="{{ . }}">
 {{- end }}
 
@@ -38,3 +42,6 @@
     {{ $pagestyle := resources.Get . | minify | fingerprint "sha512" }}
     <link rel="stylesheet" href="{{ $pagestyle.RelPermalink }}" integrity="{{ $pagestyle.Data.Integrity }}">
 {{- end }}
+
+<!-- allow easy customization -->
+{{- partial "head_custom.html" . -}}

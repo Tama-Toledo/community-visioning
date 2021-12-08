@@ -44,7 +44,7 @@ theme="bootstrap-bp-hugo-theme"
 [params]
   bannerImage = "/images/banner1.png"
   description = "Copyright © 2021. All Rights Reserved. Original design by Mark A. McFate"
-  #images = ["logo.jpg"]
+  images = ["logo.jpg", "banner1.png"]
   # showPostSummary = true
   # startPageColumns = true
   # showListsGrouped = true
@@ -74,8 +74,8 @@ theme="bootstrap-bp-hugo-theme"
 # username unless otherwise noted.
 # Code from https://themes.gohugo.io/future-imperfect/ theme
 [social]
-  #facebook = "https://www.facebook.com/SouthTamaRecreation/"
-  #email = ""
+  facebook = "https://www.facebook.com/SouthTamaRecreation/"
+  email = "mark@tamatoledo.org"
   # youtube = ""
 
 [menu]
@@ -123,15 +123,15 @@ theme="bootstrap-bp-hugo-theme"
     pre = "<i class='fas fa-address-card'></i>"
 
   [[menu.footer]]
-    identifier = "venues"
-    name = "Venues"
-    url = "/venues/"
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
     weight = 30
     pre = "<i class='fas fa-tags'></i>"
 
 [taxonomies]
-venues = "venues"
-#category = "categories"
+#venues = "venues"
+category = "categories"
 #tag = "tags"
 #series = "series"
 
