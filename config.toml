@@ -1,8 +1,8 @@
-# baseURL = "https://cv.tamatoledo.org/
+baseURL = "https://cv.tamatoledo.org/"
 title = "Tama-Toledo Community Visioning"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
-# paginate = 3
+paginate = 3
 # ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*"]
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -55,19 +55,6 @@ theme="bootstrap-bp-hugo-theme"
   # js=["/js/test_site.js"]
   # css=["/css/test_site.css"]
   # csscdn=["https://fonts.googleapis.com/css?family=Concert+One|Roboto&display=swap"]
-
-
-#[languages]
-#  [languages.en]
-#    languageName = "English"
-#    title = "My blog"
-#    weight = 1
-#    [languages.en.params]
-#  [languages.de]
-#    languageName = "Deutsch"
-#    title = "Mein Blog"
-#    weight = 2
-#    [languages.de.params]
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your
