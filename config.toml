@@ -1,8 +1,8 @@
-baseURL = "https://cv.tamatoledo.org/"
+# baseURL = "https://cv.tamatoledo.org/"
 title = "Tama-Toledo Community Visioning"
 # author = "Steve Francia"
 # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
-paginate = 3
+# paginate = 3
 # ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*"]
 languageCode = "en"
 DefaultContentLanguage = "en"

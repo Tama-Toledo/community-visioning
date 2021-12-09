@@ -9,12 +9,12 @@
     <div class="card">
       <div class="card-body">  
         <h1>{{ .Title }}</h1>
-        {{ .Content | markdownify }}
+        <p>{{ .Content | markdownify }}</p>
         <ul>
-          {{ range where .Site.Pages "Section" .Section }}
-            {{ `<!-- range .RegularPages: layouts/event/list.html -->` | safeHTML }}
+          {{ range .Pages.ByDate.Reverse }}            
+            {{ `<!-- range .Pages.ByDate.Reverse.: layouts/event/list.html -->` | safeHTML }}
             <li>{{ .Date.Format $customDateFormat }} - <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
-          {{ end}}
+          {{ end }}
         </ul>
       </div>
     </div>
