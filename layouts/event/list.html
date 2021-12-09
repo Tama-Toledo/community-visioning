@@ -1,6 +1,10 @@
 {{- define "main" -}}
 {{ `<!-- ENTER: layouts/event/list.html -->` | safeHTML }}
 
+<!-- {{ range .Pages }} -->
+  <!-- <pre><p>{{ . | jsonify }}</p></pre> -->
+<!-- {{ end }} -->
+
 {{ $customDateFormat := "02.01.2006" }}
 {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
 

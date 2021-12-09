@@ -1,6 +1,10 @@
 {{ define "main" }}
 {{ `<!-- ENTER: layouts/index.html -->` | safeHTML }}
 
+<!-- {{ range .Site.RegularPages }} -->
+  <!-- <pre><p>{{ . | jsonify }}</p></pre> -->
+<!-- {{ end }} -->
+
 <div class="container mt-3 mb-3">
     {{/* $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "!=" "page") */}}
     {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "in" (slice "post" "event")) }}
