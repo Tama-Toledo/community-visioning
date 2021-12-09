@@ -7,8 +7,8 @@ tags:
     - PDF
 categories:
     - Tama-Toledo
-weight: 2
+weight: 10000
 ---
-This is PLAN _Test-PDF.md_.   Weight = 2
+This is PLAN _Test-PDF.md_.  This "test" example shows how the original PDFs created for this project are difficult to read when rendered for the web.
 
 {{< embed-pdf url="../../pdfs/01_TamaToledo_ProgramOverview.pdf" >}}

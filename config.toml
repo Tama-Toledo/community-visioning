@@ -93,27 +93,27 @@ theme="bootstrap-bp-hugo-theme"
     url = "/plan/"
     weight = 15
     pre = "<i class='fas fa-drafting-compass'></i>"
-  # 
-  # [[menu.main]]
-  #   identifier = "registration"
-  #   name = "Registration"
-  #   url = "/registration/"
-  #   weight = 20
-  #   pre = "<i class='fas fa-align-justify'></i>"
-  # 
-  # [[menu.main]]
-  #   identifier = "bus"
-  #   name = "Bus Info"
-  #   url = "/bus/"
-  #   weight = 25
-  #   pre = "<i class='fas fa-bus'></i>"
+  
+  [[menu.main]]
+    identifier = "event"
+    name = "Events"
+    url = "/event/"
+    weight = 20
+    pre = "<i class='fas fa-align-justify'></i>"
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact Information"
+    name = "Contacts"
     url = "/contact/"
     weight = 27
     pre = "<i class='far fa-envelope'></i>"
+
+  [[menu.main]]
+    identifier = "document"
+    name = "Documents"
+    url = "/document/"
+    weight = 25
+    pre = "<i class='far fa-file-pdf'></i>"
 
   [[menu.footer]]
     identifier = "about"

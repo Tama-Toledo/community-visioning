@@ -1,0 +1,16 @@
+---
+title: "Steering Committees Organization Meeting"
+type: event
+date: 2022-01-06
+startTime: "5pm"
+endTime: "7pm"
+location: "Wieting Theatre Community Room"
+city: "Toledo, IA"
+venues:
+  - Wieting Theatre
+  - Toledo
+draft: false
+expiryDate: 2022-01-07
+---
+
+The original committees from Tama and Toledo, and others who wish to join the effort, are invited to meet and discuss organization, priorities, and next steps.

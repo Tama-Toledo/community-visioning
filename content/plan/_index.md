@@ -1,1 +1,1 @@
-This is `layouts/pdf/_index.md`.
+This is `content/plan/_index.md`.
