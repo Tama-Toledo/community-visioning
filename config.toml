@@ -61,8 +61,8 @@ theme="bootstrap-bp-hugo-theme"
 # username unless otherwise noted.
 # Code from https://themes.gohugo.io/future-imperfect/ theme
 [social]
-  facebook = "https://www.facebook.com/SouthTamaRecreation/"
-  email = "mark@tamatoledo.org"
+  # facebook = "https://www.facebook.com/SouthTamaRecreation/"
+  email = "cv@summittservices.com"
   # youtube = ""
 
 [menu]
@@ -88,12 +88,12 @@ theme="bootstrap-bp-hugo-theme"
     weight = 20
     pre = "<i class='fas fa-align-justify'></i>"
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contacts"
-    url = "/contact/"
-    weight = 27
-    pre = "<i class='far fa-envelope'></i>"
+  # [[menu.main]]
+  #   identifier = "contact"
+  #   name = "Contacts"
+  #   url = "/contact/"
+  #   weight = 27
+  #   pre = "<i class='far fa-envelope'></i>"
 
   [[menu.main]]
     identifier = "document"
