@@ -7,7 +7,8 @@ tags:
     - Post
 categories:
     - Testing
-draft: false
+draft: true
+author: Mark McFate
 ---
 
 This is POST _Test-Post.md_.  Just a test of the site's `post` content type.  There is NO PDF embedded here!   
