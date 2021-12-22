@@ -1,0 +1,15 @@
+---
+title: "Tama: Harding Street at US 63 (9c)"
+publishdate: 2021-12-21T20:29:29-06:00
+draft: false
+tags:
+    - Harding Street
+    - US 63
+    - PDF
+categories:
+    - Tama
+weight: 930
+---
+This plan, **9c**, presents a simple/soft option (page 2) and a more complex/hard/permanent option (page 3) for safety improvements at the Harding Street / US 63 intersection in Tama.
+
+{{< embed-pdf url="../../pdfs/9c_HardingSt_US63-Binder.pdf" >}}
