@@ -10,7 +10,7 @@ venues:
   - Zoom
   - Online
 draft: false
-expiryDate: 2022-01-06
+expiryDate: 2022-01-05
 ---
 
 Denise has secured an online meeting, now set for Zoom rather than Microsoft Teams, for **1:00 pm** on **Tuesday, January 4, 2022**, with Jon Werger from the Wellmark Foundation.  Denise would like to have some interested participants join her in this online meeting.  Please [email Denise](mailto:ldfletcher@mchsi.com) for a link to the meeting if needed.
