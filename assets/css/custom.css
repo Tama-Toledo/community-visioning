@@ -15,13 +15,16 @@
   padding: 3px 1em;
 }
 
+.navbar-brand {
+  text-decoration: none;
+}
+
 a {
   color: #000000;
   text-decoration: underline dotted blue;
   background-color: transparent;
 }
 
-.navbar-brand a,
 .nav-item a,
 h1 a {
   text-decoration: none;
