@@ -21,6 +21,7 @@ a {
   background-color: transparent;
 }
 
+.navbar-brand a,
 .nav-item a,
 h1 a {
   text-decoration: none;
