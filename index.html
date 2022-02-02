@@ -64,6 +64,21 @@ this link
 <ul>
 <li>Discussion with <strong>Jon Werger</strong> from <strong>Wellmark Healthy Hometown</strong>.</li>
 </ul>
+<script type=text/javascript src=//js/pdf-js/build/pdf.js></script>
+<style>#the-canvas{border:1px solid #000;direction:ltr;width:100%;height:auto;display:none}#paginator{display:none;text-align:center;margin-bottom:10px}#loadingWrapper{display:none;justify-content:center;align-items:center;width:100%;height:350px}#loading{display:inline-block;width:50px;height:50px;border:3px solid #d2d0d0;border-radius:50%;border-top-color:#383838;animation:spin 1s ease-in-out infinite;-webkit-animation:spin 1s ease-in-out infinite}@keyframes spin{to{-webkit-transform:rotate(360deg)}}@-webkit-keyframes spin{to{-webkit-transform:rotate(360deg)}}</style>
+<div id=paginator>
+<button id=prev>Previous</button>
+<button id=next>Next</button>
+&nbsp; &nbsp;
+<span>Page: <span id=page_num></span> / <span id=page_count></span></span>
+</div>
+<div id=embed-pdf-container>
+<div id=loadingWrapper>
+<div id=loading></div>
+</div>
+<canvas id=the-canvas></canvas>
+</div>
+<script type=text/javascript>window.onload=function(){var j="../../pdfs/HH-Tama-Toledo-intro-agenda-2.3.2022.pdf",s=""==="true",o=""==="true",n=parseInt("")||1,h=window['pdfjs-dist/build/pdf'],d,a,e,c,k,b,l,m,g;h.GlobalWorkerOptions.workerSrc="/js/pdf-js/build/pdf.worker.js",d=null,a=n,e=!1,c=null,k=3,b=document.getElementById('the-canvas'),l=b.getContext('2d'),m=document.getElementById("paginator"),g=document.getElementById('loadingWrapper'),r(),q();function f(a){e=!0,d.getPage(a).then(function(d){var a=d.getViewport({scale:k}),g,h;b.height=a.height,b.width=a.width,g={canvasContext:l,viewport:a},h=d.render(g),h.promise.then(function(){e=!1,p(),c!==null&&(f(c),c=null)})}),document.getElementById('page_num').textContent=a}function p(){g.style.display='none',b.style.display='block'}function q(){if(o)return;g.style.display='flex',b.style.display='none'}function r(){if(s)return;m.style.display='block'}function i(a){e?c=a:f(a)}function t(){if(a<=1)return;a--,i(a)}document.getElementById('prev').addEventListener('click',t);function u(){if(a>=d.numPages)return;a++,i(a)}document.getElementById('next').addEventListener('click',u),h.getDocument(j).promise.then(function(c){d=c;var b=d.numPages;document.getElementById('page_count').textContent=b,a>b&&(a=b),f(a)})}</script>
 </p>
 </div>
 <div class=card-footer>
@@ -127,37 +142,6 @@ Events
 <i class="fas fa-tags text-secondary"></i>&nbsp;
 <a href=/tags/#welcome class="badge badge-secondary"><span>Welcome</span></a>
 <a href=/tags/#post class="badge badge-secondary"><span>Post</span></a>
-</small>
-</div>
-</div>
-</div>
-<div class=mb-3>
-<div class=card>
-<div class=card-body>
-<h1 class=card-title><a href=/event/2022-01-06-meeting/>Steering Committees Organization Meeting</a></h1>
-<h6 class="card-subtitle mb-2 text-muted">
-</h6>
-<span class=event-date-time>January 6 from 5pm - 7pm at Wieting Theatre Community Room, Toledo, IA</span>
-<p class=card-text><p>The original committees from Tama and Toledo, and others who wish to join the effort, are invited to meet and discuss organization, priorities, and next steps.</p>
-<script type=text/javascript src=//js/pdf-js/build/pdf.js></script>
-<style>#the-canvas{border:1px solid #000;direction:ltr;width:100%;height:auto;display:none}#paginator{display:none;text-align:center;margin-bottom:10px}#loadingWrapper{display:none;justify-content:center;align-items:center;width:100%;height:350px}#loading{display:inline-block;width:50px;height:50px;border:3px solid #d2d0d0;border-radius:50%;border-top-color:#383838;animation:spin 1s ease-in-out infinite;-webkit-animation:spin 1s ease-in-out infinite}@keyframes spin{to{-webkit-transform:rotate(360deg)}}@-webkit-keyframes spin{to{-webkit-transform:rotate(360deg)}}</style>
-<div id=paginator>
-<button id=prev>Previous</button>
-<button id=next>Next</button>
-&nbsp; &nbsp;
-<span>Page: <span id=page_num></span> / <span id=page_count></span></span>
-</div>
-<div id=embed-pdf-container>
-<div id=loadingWrapper>
-<div id=loading></div>
-</div>
-<canvas id=the-canvas></canvas>
-</div>
-<script type=text/javascript>window.onload=function(){var j="../../pdfs/Agenda-TT-Visioning-Jan-6-2022.pdf",s=""==="true",o=""==="true",n=parseInt("")||1,h=window['pdfjs-dist/build/pdf'],d,a,e,c,k,b,l,m,g;h.GlobalWorkerOptions.workerSrc="/js/pdf-js/build/pdf.worker.js",d=null,a=n,e=!1,c=null,k=3,b=document.getElementById('the-canvas'),l=b.getContext('2d'),m=document.getElementById("paginator"),g=document.getElementById('loadingWrapper'),r(),q();function f(a){e=!0,d.getPage(a).then(function(d){var a=d.getViewport({scale:k}),g,h;b.height=a.height,b.width=a.width,g={canvasContext:l,viewport:a},h=d.render(g),h.promise.then(function(){e=!1,p(),c!==null&&(f(c),c=null)})}),document.getElementById('page_num').textContent=a}function p(){g.style.display='none',b.style.display='block'}function q(){if(o)return;g.style.display='flex',b.style.display='none'}function r(){if(s)return;m.style.display='block'}function i(a){e?c=a:f(a)}function t(){if(a<=1)return;a--,i(a)}document.getElementById('prev').addEventListener('click',t);function u(){if(a>=d.numPages)return;a++,i(a)}document.getElementById('next').addEventListener('click',u),h.getDocument(j).promise.then(function(c){d=c;var b=d.numPages;document.getElementById('page_count').textContent=b,a>b&&(a=b),f(a)})}</script>
-</p>
-</div>
-<div class=card-footer>
-<small class=text-muted>
 </small>
 </div>
 </div>
