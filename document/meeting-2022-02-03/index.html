@@ -38,88 +38,48 @@ Attachments   #the-canvas { border: 1px solid black; direction: ltr; width: 100%
 <ul class="navbar-nav mr-auto">
 <li class=nav-item>
 <a class="nav-link text-primary" href=/about/><i class="fas fa-school"></i> About Us</a>
-</li>
-<li class=nav-item>
+</li><li class=nav-item>
 <a class="nav-link text-primary" href=/plan/><i class="fas fa-drafting-compass"></i> Plans</a>
-</li>
-<li class=nav-item>
+</li><li class=nav-item>
 <a class="nav-link text-primary" href=/event/><i class="fas fa-align-justify"></i> Events</a>
-</li>
-<li class=nav-item>
+</li><li class=nav-item>
 <a class="nav-link text-primary" href=/document/><i class="far fa-file-pdf"></i> Documents</a>
-</li>
-</ul>
-</div>
-</div>
-</nav>
-<a href=/>
+</li></ul></div></div></nav><a href=/>
 <div id=site-banner>
 <img id=site-banner-image src=/images/banner1.png>
-</div>
-</a>
+</div></a>
 <main role=main>
 <div class="container mt-3 mb-3">
 <div class=card>
 <div class=card-body>
-<h1 class=card-title><a href=/document/meeting-2022-02-03/>2022-Feb-3: Meeting Minutes and Attachments</a></h1>
-<h6 class="card-subtitle mb-2 text-muted">
+<h1 class=card-title><a href=/document/meeting-2022-02-03/>2022-Feb-3: Meeting Minutes and Attachments</a></h1><h6 class="card-subtitle mb-2 text-muted">
 <i class="fas fa-calendar-day"></i>&nbsp;Thursday, February 3, 2022 -
 <i class="fas fa-user"></i>&nbsp;
 Mackenzie McFate
-</h6>
-<p class=card-text><p>This is information from our 5 p.m., February 3, 2022, meeting with Jon Werger and Jenny Weber from Wellmark&rsquo;s <em>Healthy Hometowns</em> program.</p>
-<h2 id=attachments>Attachments</h2>
-<script type=text/javascript src=//js/pdf-js/build/pdf.js></script>
-<style>#the-canvas{border:1px solid #000;direction:ltr;width:100%;height:auto;display:none}#paginator{display:none;text-align:center;margin-bottom:10px}#loadingWrapper{display:none;justify-content:center;align-items:center;width:100%;height:350px}#loading{display:inline-block;width:50px;height:50px;border:3px solid #d2d0d0;border-radius:50%;border-top-color:#383838;animation:spin 1s ease-in-out infinite;-webkit-animation:spin 1s ease-in-out infinite}@keyframes spin{to{-webkit-transform:rotate(360deg)}}@-webkit-keyframes spin{to{-webkit-transform:rotate(360deg)}}</style>
-<div id=paginator>
+</h6><p class=card-text><p>This is information from our 5 p.m., February 3, 2022, meeting with Jon Werger and Jenny Weber from Wellmark&rsquo;s <em>Healthy Hometowns</em> program.</p><h2 id=attachments>Attachments</h2><script type=text/javascript src=//js/pdf-js/build/pdf.js></script>
+<style>#the-canvas{border:1px solid #000;direction:ltr;width:100%;height:auto;display:none}#paginator{display:none;text-align:center;margin-bottom:10px}#loadingWrapper{display:none;justify-content:center;align-items:center;width:100%;height:350px}#loading{display:inline-block;width:50px;height:50px;border:3px solid #d2d0d0;border-radius:50%;border-top-color:#383838;animation:spin 1s ease-in-out infinite;-webkit-animation:spin 1s ease-in-out infinite}@keyframes spin{to{-webkit-transform:rotate(360deg)}}@-webkit-keyframes spin{to{-webkit-transform:rotate(360deg)}}</style><div id=paginator>
 <button id=prev>Previous</button>
 <button id=next>Next</button>
 &nbsp; &nbsp;
 <span>Page: <span id=page_num></span> / <span id=page_count></span></span>
-</div>
-<div id=embed-pdf-container>
+</div><div id=embed-pdf-container>
 <div id=loadingWrapper>
-<div id=loading></div>
-</div>
-<canvas id=the-canvas></canvas>
-</div>
-<script type=text/javascript>window.onload=function(){var j="../../pdfs/2022-02-03-Minutes-CV.pdf",s=""==="true",o=""==="true",n=parseInt("")||1,h=window['pdfjs-dist/build/pdf'],d,a,e,c,k,b,l,m,g;h.GlobalWorkerOptions.workerSrc="/js/pdf-js/build/pdf.worker.js",d=null,a=n,e=!1,c=null,k=3,b=document.getElementById('the-canvas'),l=b.getContext('2d'),m=document.getElementById("paginator"),g=document.getElementById('loadingWrapper'),r(),q();function f(a){e=!0,d.getPage(a).then(function(d){var a=d.getViewport({scale:k}),g,h;b.height=a.height,b.width=a.width,g={canvasContext:l,viewport:a},h=d.render(g),h.promise.then(function(){e=!1,p(),c!==null&&(f(c),c=null)})}),document.getElementById('page_num').textContent=a}function p(){g.style.display='none',b.style.display='block'}function q(){if(o)return;g.style.display='flex',b.style.display='none'}function r(){if(s)return;m.style.display='block'}function i(a){e?c=a:f(a)}function t(){if(a<=1)return;a--,i(a)}document.getElementById('prev').addEventListener('click',t);function u(){if(a>=d.numPages)return;a++,i(a)}document.getElementById('next').addEventListener('click',u),h.getDocument(j).promise.then(function(c){d=c;var b=d.numPages;document.getElementById('page_count').textContent=b,a>b&&(a=b),f(a)})}</script>
-</p>
-</div>
-<div class=card-footer>
+<div id=loading></div></div><canvas id=the-canvas></canvas>
+</div><script type=text/javascript>window.onload=function(){l="../../pdfs/2022-02-03-Minutes-CV.pdf",b=""==="true",f=""==="true",m=parseInt("")||1,r=window["pdfjs-dist/build/pdf"],r.GlobalWorkerOptions.workerSrc="/js/pdf-js/build/pdf.worker.js";var l,b,f,m,r,s=null,e=m,o=!1,n=null,d=3,t=document.getElementById("the-canvas"),u=t.getContext("2d"),h=document.getElementById("paginator"),a=document.getElementById("loadingWrapper");v(),g();function i(e){o=!0,s.getPage(e).then(function(s){var e=s.getViewport({scale:d}),a,r;t.height=e.height,t.width=e.width,a={canvasContext:u,viewport:e},r=s.render(a),r.promise.then(function(){o=!1,p(),n!==null&&(i(n),n=null)})}),document.getElementById("page_num").textContent=e}function p(){a.style.display="none",t.style.display="block"}function g(){if(f)return;a.style.display="flex",t.style.display="none"}function v(){if(b)return;h.style.display="block"}function c(e){o?n=e:i(e)}function j(){if(e<=1)return;e--,c(e)}document.getElementById("prev").addEventListener("click",j);function y(){if(e>=s.numPages)return;e++,c(e)}document.getElementById("next").addEventListener("click",y),r.getDocument(l).promise.then(function(n){s=n;var t=s.numPages;document.getElementById("page_count").textContent=t,e>t&&(e=t),i(e)})}</script>
+</p></div><div class=card-footer>
 <small class=text-muted>
 </small>
-</div>
-</div>
-</div>
-</main>
-<footer class="navbar-light border-top">
+</div></div></div></main><footer class="navbar-light border-top">
 <div class=container>
 <div class=row>
 <div class="col-12 col-md-3 mb-3">
-<h5>Tama-Toledo Community Visioning</h5>
-Copyright © 2021. All Rights Reserved. Original design by Mark A. McFate
-</div>
-<div class="col-12 col-md-3 mb-3">
-<h5>Contact Us</h5>
-<ul class="list-unstyled list-inline">
-<li class=list-inline-item><a href=mailto:cv@summittservices.com title=Email class="fas fa-envelope fa-2x"></a></li>
-</ul>
-</div>
-<div class="col-12 col-md-3 mb-3">
-<h5>Site</h5>
-<ul class=list-unstyled>
-<li><a href=/about/><i class="fas fa-address-card"></i> About</a></li>
-<li><a href=/categories/><i class="fas fa-tags"></i> Categories</a></li>
-</ul>
-</div>
-<div class="col-12 col-md-3 mb-3">
+<h5>Tama-Toledo Community Visioning</h5>Copyright © 2021. All Rights Reserved. Original design by Mark A. McFate
+</div><div class="col-12 col-md-3 mb-3">
+<h5>Contact Us</h5><ul class="list-unstyled list-inline">
+<li class=list-inline-item><a href=mailto:cv@summittservices.com title=Email class="fas fa-envelope fa-2x"></a></li></ul></div><div class="col-12 col-md-3 mb-3">
+<h5>Site</h5><ul class=list-unstyled>
+<li><a href=/about/><i class="fas fa-address-card"></i> About</a></li><li><a href=/categories/><i class="fas fa-tags"></i> Categories</a></li></ul></div><div class="col-12 col-md-3 mb-3">
 &copy; 2022 Mackenzie McFate<br>
 Theme by <a href=https://www.spech.de target=_blank rel="noopener noreferrer">Sebastian Pech</a>.
-</div>
-</div>
-</div>
-</footer>
-<script src=/js/vendor.min.663afa228c3cca84f2742c30d05ce145eb98e4bbb558363c1fe726114c215ce1d73853677bd285b854706f860d7bc1fe06b8f7a57a4e2c2e7a4bcf9f5ee2fe87.js integrity="sha512-Zjr6Iow8yoTydCww0FzhReuY5Lu1WDY8H+cmEUwhXOHXOFNne9KFuFRwb4YNe8H+Brj3pXpOLC56S8+fXuL+hw=="></script>
-</body>
-</html>
+</div></div></div></footer><script src=/js/vendor.min.fb57257e10e4a6a2880ccad2290e39d0b88ad353b731d7f8ad3b7d00c08ab1ec5e7d0057ee1ecd22f086ba488851aa1c9e7c14b3be809b788e45b79a9113e03e.js integrity="sha512-+1clfhDkpqKIDMrSKQ450LiK01O3Mdf4rTt9AMCKsexefQBX7h7NIvCGukiIUaocnnwUs76Am3iORbeakRPgPg=="></script>
+</body></html>
