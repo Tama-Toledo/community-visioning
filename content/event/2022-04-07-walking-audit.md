@@ -25,7 +25,7 @@ The AARP (American Association of Retired Persons) describes a walking audit as:
 {{% /box %}}  
 <p/>
 
-_Specifics_: We will meet outside the Wieting Theatre at 5 PM and walk through Downtown Toledo, then we will walk to the former Iowa Juvenile Home site, and continue on to the intersection of Business 30 and Broadway. **Wear comfortable walking shoes and dress for the weather!**
+_Specifics_: We will meet outside the Wieting Theatre at 5 PM and walk through Downtown Toledo, then we will walk to the former Iowa Juvenile Home site (future site of a new South Tama Middle School), and continue on to the intersection of Business 30 and Broadway. **Wear comfortable walking shoes and dress for the weather!**
 
 Additional details will be posted here as they become available.  
 
