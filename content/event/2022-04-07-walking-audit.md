@@ -22,7 +22,8 @@ The AARP (American Association of Retired Persons) describes a walking audit as:
 
 {{% box %}}
 ...a simple activity in which an individual or a team observes and evaluates the walkability of a location to document how and if pedestrians can safely travel along a street, navigate an intersection and get from point A to B, C and so on.
-{{% /box %}}
+{{% /box %}}  
+<p/>
 
 _Specifics_: We will meet outside the Wieting Theatre at 5 PM and walk through Downtown Toledo, then we will walk to the former Iowa Juvenile Home site, and continue on to the intersection of Business 30 and Broadway. **Wear comfortable walking shoes and dress for the weather!**
 
