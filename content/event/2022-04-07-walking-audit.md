@@ -28,9 +28,7 @@ The AARP (American Association of Retired Persons) describes a walking audit as:
 _Specifics_: We will meet outside the Wieting Theatre at 5 PM and walk through Downtown Toledo, then we will walk to the former Iowa Juvenile Home site (future site of a new South Tama Middle School), and continue on to the intersection of Business 30 and Broadway. **Wear comfortable walking shoes and dress for the weather!**  I believe there will be a bus available at the end to return walkers to the Wieting for a short meeting.
 
 {{% box %}}
-_Attention!_ &nbsp; We would like to have a head-count in advance of the event -- deadline to RSVP is April 4 -- so please click one of these links to email either [Denise Fletcher](mailto:ldfletcher@mchsi.com?subject=Walking_Audit_RSVP) or [Karen Mixdorf](mailto:klmixdorf@gmail.com?subject=Walking_Audit_RSVP).  
-
-Let them know who, or at least how many, will be in attendance. Also consider bringing appropriate snacks and water to share.
+_Attention!_ &nbsp; We would like to have a head-count in advance of the event -- deadline to RSVP is April 4 -- so please click one of these links to email either <a href="mailto:ldfletcher@mchsi.com?subject=Walking Audit RSVP">Denise Fletcher</a> or <a href="mailto:klmixdorf@gmail.com?subject=Walking Audit RSVP">Karen Mixdorf</a>.  Let them know who, or at least how many, will be in attendance.  Also consider bringing appropriate snacks and water to share.
 {{% /box %}}  
 </p>
 
