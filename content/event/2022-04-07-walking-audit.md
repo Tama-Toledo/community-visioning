@@ -18,6 +18,8 @@ Minutes from our last meeting on March 3, 2022, are now available at [this link]
 
 Our April "meeting" will actually be a [Walking Audit](https://www.aarp.org/livable-communities/getting-around/aarp-walk-audit-tool-kit/) conducted by an experienced representative from Wellmark's [Healthy Hometown](https://www.wellmark.com/about/community/community-health-improvement/iowa) initiative.  **Everyone is invited to attend and walk together!**  
 
+{{< embed-pdf url="../../pdfs/Tama-Toledo-Walk-Audit-Flyer.pdf" >}} <p/> 
+
 The AARP (American Association of Retired Persons) describes a walking audit as:
 
 {{% box %}}
@@ -34,7 +36,6 @@ _Attention!_ &nbsp; We would like to have a head-count in advance of the event -
 
 Agenda specifics:
 
-  - Walking Audit as described above and below.
-  
-{{< embed-pdf url="../../pdfs/Tama-Toledo-Walk-Audit-Flyer.pdf" >}}  
+  - Walking Audit as described above.
+   
  
