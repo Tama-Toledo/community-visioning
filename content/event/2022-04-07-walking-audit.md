@@ -1,5 +1,5 @@
 ---
-title: "Walking Audit"
+title: "Walking Audit - POSTPONED"
 date: 2022-04-07
 publishDate: 2022-03-07T21:41:55-06:00
 startTime: "5pm"
@@ -16,7 +16,9 @@ expiryDate: 2022-04-08
 
 Minutes from our last meeting on March 3, 2022, are now available at [this link](./document/meeting-2022-03-03/).
 
-Our April "meeting" will actually be a [Walking Audit](https://www.aarp.org/livable-communities/getting-around/aarp-walk-audit-tool-kit/) conducted by an experienced representative from Wellmark's [Healthy Hometown](https://www.wellmark.com/about/community/community-health-improvement/iowa) initiative.  **Everyone is invited to attend and walk together!**  
+For our April "meeting" we had planned a [Walking Audit](https://www.aarp.org/livable-communities/getting-around/aarp-walk-audit-tool-kit/) conducted by an experienced representative from Wellmark's [Healthy Hometown](https://www.wellmark.com/about/community/community-health-improvement/iowa) initiative.  **Due to weather concerns this event has been POSTPONED to May 4 at 5 PM.**  **Everyone is invited to attend and walk together!**  
+
+We will have a **regular meeting** at the **Wieting, 5 PM, April 7**, instead of the Walking Audit.  
 
 {{< embed-pdf url="../../pdfs/Tama-Toledo-Walk-Audit-Flyer.pdf" >}} <p/> 
 
@@ -27,7 +29,7 @@ The AARP (American Association of Retired Persons) describes a walking audit as:
 {{% /box %}}  
 <p/>
 
-_Specifics_: We will meet outside the Wieting Theatre at 5 PM and walk through Downtown Toledo, then we will walk to the former Iowa Juvenile Home site (future site of a new South Tama Middle School), and continue on to the intersection of Business 30 and Broadway. **Wear comfortable walking shoes and dress for the weather!**  I believe there will be a bus available at the end to return walkers to the Wieting for a short meeting.
+_Specifics_: We will meet outside the Wieting Theatre at 5 PM on **May 5** and walk through Downtown Toledo, then we will walk to the former Iowa Juvenile Home site (future site of a new South Tama Middle School), and continue on to the intersection of Business 30 and Broadway. **Wear comfortable walking shoes and dress for the weather!**  I believe there will be a bus available at the end to return walkers to the Wieting for a short meeting.
 
 {{% box %}}
 _Attention!_ &nbsp; We would like to have a head-count in advance of the event -- deadline to RSVP is April 4 -- so please click one of these links to email either <a href="mailto:ldfletcher@mchsi.com?subject=Walking Audit RSVP">Denise Fletcher</a> or <a href="mailto:klmixdorf@gmail.com?subject=Walking Audit RSVP">Karen Mixdorf</a>.  Let them know who, or at least how many, will be in attendance.  Also consider bringing appropriate snacks and water to share.
