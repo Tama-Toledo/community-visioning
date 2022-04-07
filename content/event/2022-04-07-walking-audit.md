@@ -18,8 +18,6 @@ For our April "meeting" we had planned a [Walking Audit](https://www.aarp.org/li
 
 We will have a **regular meeting** at the **Wieting, 5 PM, April 7**, instead of the Walking Audit and that [meeting agenda is available here](../../pdfs/April-7-2022-Community-Visioning-Agenda.pdf).
 
-{{< embed-pdf url="../../pdfs/Tama-Toledo-Walk-Audit-Flyer.pdf" >}} <p/> 
-
 The AARP (American Association of Retired Persons) describes a walking audit as:
 
 {{% box %}}
