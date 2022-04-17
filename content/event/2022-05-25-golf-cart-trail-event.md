@@ -14,7 +14,7 @@ draft: false
 expiryDate: 2022-05-26
 ---
 
-Ever been interested in discovering the South Tama Rec Trail and learning more about the trail and future plans?  Well, on **Wednesday, May 25**, we will sponsor a golf cart tour of the South Tama Rec Trail.  Individuals and families may **join us between Noon and 3pm at either the Tama Civic Center or Toledo Heights Park for a golf cart ride on the trail**.
+Ever been interested in discovering the South Tama Rec Trail and learning more about the trail and future plans?  Well, on **Wednesday, May 25**, we will sponsor a golf cart tour of the South Tama Rec Trail.  Individuals age 50 and older who cannot comfortably walk the trail may **join us between Noon and 3pm at either the Tama Civic Center or Toledo Heights Park for a golf cart ride on the trail**.
 
 Some of our planning material is available on our [Documents page](./document). Watch this space for more information as elements of this event are confirmed.
 
