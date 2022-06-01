@@ -1,7 +1,7 @@
 ---
 title: "Walking Audit - Rescheduled Again"
 date: 2022-06-02
-publishDate: 2022-03-07T21:41:55-06:00
+publishDate: 2022-06-01T18:43:52-05:00
 startTime: "5pm"
 endTime: "7pm"
 location: "Wieting Theatre"
