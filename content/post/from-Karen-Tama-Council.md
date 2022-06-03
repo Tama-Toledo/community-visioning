@@ -7,7 +7,7 @@ tags:
 categories:
     - General
     - Tama
-draft: true
+draft: false
 author: Karen Mixdorf
 ---
 
