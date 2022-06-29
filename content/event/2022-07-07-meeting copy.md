@@ -19,6 +19,9 @@ This meeting will be held in the Tama Civic Center to avoid potential conflicts 
 
 Agenda specifics:
 
-  - Wellmark will be present to follow-up on our Walking Audit and other business.
+  - Wellmark will be present to follow-up on our Walking Audit and other business.  See agenda .pdf below.
+ 
+{{< embed-pdf url="../../pdfs/HH Tama-Toledo agenda 7.7.2022.pages.pdf" >}}  
+
   
  
