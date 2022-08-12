@@ -2,8 +2,8 @@
 title: "Walking Audit - Tama"
 date: 2022-09-15
 publishDate: 2022-08-12T11:25:14-05:00
-startTime: "5pm"
-endTime: "7pm"
+startTime: "5:30pm"
+endTime: "7:30pm"
 location: "Tama Civic Center"
 city: "Tama, IA"
 venues:
@@ -16,9 +16,7 @@ expiryDate: 2022-09-16
 
 Earlier in the year we had a very successful "Walking Audit" in Toledo.  Now it's Tama's turn.  On September 15 we have planned a [Walking Audit](https://www.aarp.org/livable-communities/getting-around/aarp-walk-audit-tool-kit/) around downtown Tama conducted by an experienced representative from Wellmark's [Healthy Hometown](https://www.wellmark.com/about/community/community-health-improvement/iowa) initiative.  
 
-__The flyer you see below is from our Toledo walking audit.  More details for Tama will be posted as soon as they are available.__
-
-{{< embed-pdf url="../../pdfs/Tama-Toledo-Walking-Audit-Flyer.pdf" >}} <p/> 
+{{< embed-pdf url="../../pdfs/tama-walking-audit.pdf" >}} <p/> 
 
 The AARP (American Association of Retired Persons) describes a walking audit as:
 
@@ -27,7 +25,7 @@ The AARP (American Association of Retired Persons) describes a walking audit as:
 {{% /box %}}  
 <p/>
 
-_Specifics_: To be determined.
+_Specifics_: See attached flyer.
 
 <!--
 {{% box %}}
@@ -38,6 +36,6 @@ _Attention!_ &nbsp; We would like to have a head-count in advance of the event -
 
 Agenda specifics:
 
-  - Walking Audit as described above.
+  - Walking Audit as described in the flyer.
    
  
