@@ -13,8 +13,10 @@ Tama-Toledo Community Visioning
 Upon completion of our 2021 “program year” with Community Visioning   , it was clear to the Tama and Toledo CV steering committees that we need to work together to address the needs of our broader Tama-Toledo community. This group, Tama-Toledo Community Visioning, coalesced from two original city-specific steering committees who shared a common goal.
 ```
 
-## Graphics
+## Resources
 
-Approved graphics, courtesy of ___, can be found in the `socialmedia.zip` file stored at ___.  Do NOT store that file in this repo!  See []() for details.  
+A host of graphics and other resources can be found at [Iowa Healthiest State](http://www.iowahealthieststate.com/resources/individuals/5210/resources/).  
+
+Approved graphics, courtesy of [Iowa Healthiest State](http://www.iowahealthieststate.com), can be found in the `socialmedia.zip` file stored at /cv-resources/socialmedia.zip.  Do NOT store that file in this repo!  See []() for details.  
 
 
