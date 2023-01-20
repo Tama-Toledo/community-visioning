@@ -17,6 +17,4 @@ Upon completion of our 2021 “program year” with Community Visioning   , it w
 
 A host of graphics and other resources can be found at [Iowa Healthiest State](http://www.iowahealthieststate.com/resources/individuals/5210/resources/).  
 
-Approved graphics, courtesy of [Iowa Healthiest State](http://www.iowahealthieststate.com), can be found in the `socialmedia.zip` file stored at /cv-resources/socialmedia.zip.  Do NOT store that file in this repo!  See []() for details.  
-
-
+Approved graphics, courtesy of [Iowa Healthiest State](http://www.iowahealthieststate.com), can be found in the `socialmedia.zip` file stored at https://tamatoledocv.blob.core.windows.net/cv-resources/socialmedia.zip.  Do NOT store that file in this repo!  See [Fixing a Broken Repo](http://blog.SummittDweller.com/posts/2023/01/fixing-a-broken-repo/) for details.  
