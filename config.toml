@@ -42,9 +42,9 @@ theme="bootstrap-bp-hugo-theme"
   name = "Mackenzie McFate"
 
 [params]
-  bannerImage = "/images/banner1.png"
-  description = "Copyright © 2021. All Rights Reserved. Original design by Mark A. McFate"
-  images = ["logo.jpg", "banner1.png"]
+  bannerImage = "/images/Banner-with-HH-logo.png"
+  description = "Copyright © 2023. All Rights Reserved. Original design by Mark A. McFate"
+  images = ["logo.jpg", "banner1.png", "Banner-with-HH-logo.png"]
   # showPostSummary = true
   # startPageColumns = true
   # showListsGrouped = true
