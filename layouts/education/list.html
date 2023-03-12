@@ -1,13 +1,8 @@
-{{ define "main" }}
-{{ `<!-- ENTER: layouts/index.html -->` | safeHTML }}
-
-<!-- {{ range .Site.RegularPages }} -->
-  <!-- <pre><p>{{ . | jsonify }}</p></pre> -->
-<!-- {{ end }} -->
+{{- define "main" -}}
+{{ `<!-- enter: layouts/education/list.html -->` | safeHTML }}
 
 <div class="container mt-3 mb-3">
-    {{/* $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "!=" "page") */}}
-    {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "in" (slice "post" "event" "education")) }}
+    {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "in" (slice "education")) }}
 
     {{ if .Site.Params.startPageColumns }}
         <div class="card-columns">
@@ -26,5 +21,5 @@
     {{ template "_internal/pagination.html" . }}
 </div>
 
-{{ `<!-- EXIT: layouts/index.html -->` | safeHTML }}
-{{ end }}
+{{ `<!-- exit: layouts/education/list.html -->` | safeHTML }}
+{{- end -}}

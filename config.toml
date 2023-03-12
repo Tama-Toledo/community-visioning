@@ -72,7 +72,7 @@ theme="bootstrap-bp-hugo-theme"
     name = "About Us"
     url = "/about/"
     weight = 10
-    pre = "<i class='fas fa-school'></i>"
+    pre = "<i class='fas fa-address-card'></i>"
 
   [[menu.main]]
     identifier = "plan"
@@ -101,6 +101,13 @@ theme="bootstrap-bp-hugo-theme"
     url = "/document/"
     weight = 25
     pre = "<i class='far fa-file-pdf'></i>"
+
+  [[menu.main]]
+    identifier = "education"
+    name = "Education"
+    url = "/education/"
+    weight = 27
+    pre = "<i class='fas fa-school'></i>"
 
   [[menu.footer]]
     identifier = "about"

@@ -3,7 +3,7 @@ title: The 5-2-1-0 Program
 publishdate: 2023-01-17T09:52:46-06:00
 draft: false
 tags:
-    - Post
+    - Education
 categories:
     - General
 draft: false
