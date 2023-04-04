@@ -16,4 +16,6 @@ author: Mark McFate
 
 The following guide may benefit pedestrians and bicycle riders who will use the new crossing.  
 
-{{< embed-pdf url="../../pdfs/RRFB-Tip-Pedestrians-and-Bicycles.pdf" >}}
+<!-- {{< embed-pdf url="../../pdfs/RRFB-Tip-Pedestrians-and-Bicycles.pdf" >}} -->
+
+![RRFB for Pedestians](/images/RRFB-Tip-Pedestrians-and-Bicycles.png)
