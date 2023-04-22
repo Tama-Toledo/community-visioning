@@ -12,13 +12,23 @@ venues:
   - Toledo
 draft: false
 expiryDate: 2023-06-11
-last_modified_at: 2023-04-21T19:54:20
+last_modified_at: 2023-04-21T20:23:25
 --- 
 
 <center>
-Join your friends and neighbors on the South Tama Rec Trail for <b>Family Fun Day</b> on June 10, 2023!<br/>
+<p>
+Join your friends and neighbors on the South Tama Rec Trail<br/>
+for <b>Family Fun Day</b> on June 10, 2023!<p/>
 
-Our activities and schedule of events are still being planned and are subject to change.  Check this page for updates as <b>June 10, 2023</b> approaches.
+<p>
+Our activities and schedule of events are subject to change.<br/>
+Check this page for updates as <b>June 10, 2023</b> approaches.
+</p>
+
+<p>
+A list of scavenger hunt items will be available to download here at a later date,<br/>
+and paper copies will be available at stations along the trail on June 10.
+</p>
 </center>
 
 {{< embed-pdf url="../../pdfs/Family-Fun-Day-on-the-Trail.pdf" >}}
