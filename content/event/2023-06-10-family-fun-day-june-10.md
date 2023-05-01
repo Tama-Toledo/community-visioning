@@ -12,7 +12,7 @@ venues:
   - Toledo
 draft: false
 expiryDate: 2023-06-11
-last_modified_at: 2023-04-21T20:23:25
+last_modified_at: 2023-05-01T09:17:35
 --- 
 
 <center>
@@ -31,4 +31,4 @@ and paper copies will be available at stations along the trail on June 10.
 </p>
 </center>
 
-{{< embed-pdf url="../../pdfs/Family-Fun-Day-on-the-Trail.pdf" >}}
+<!-- {{< embed-pdf url="../../pdfs/Family-Fun-Day-on-the-Trail.pdf" >}} -->
