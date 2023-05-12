@@ -12,7 +12,7 @@ venues:
   - Toledo
 draft: false
 expiryDate: 2023-06-11
-last_modified_at: 2023-05-05T12:31:35
+last_modified_at: 2023-05-12T12:46:05
 --- 
 
 <center>
@@ -26,8 +26,7 @@ Check this page for updates as <b>June 10, 2023</b> approaches.
 </p>
 
 <p>
-A list of scavenger hunt items will be available to download here at a later date,<br/>
-and paper copies will be available at stations along the trail on June 10.
+Directions and a list of scavenger hunt items is available to download using the "dinosaur" QR code in the poster, and paper copies will be available at the check-in station on June 10.
 </p>
 </center>
 
