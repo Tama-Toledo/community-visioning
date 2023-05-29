@@ -11,8 +11,8 @@ footnoteReturnLinkContents = "^"
 enableEmoji = true
 
 ## Theme specific examples
-#author = "Sebastian Pech"
-#copyright = "Sebastian Pech"
+# author = "Sebastian Pech"
+# copyright = "Sebastian Pech"
 # googleAnalytics = "UA-187260584-4"
 enableRobotsTXT = true 
 pygmentsCodeFences = true
@@ -124,10 +124,10 @@ theme="bootstrap-bp-hugo-theme"
     pre = "<i class='fas fa-tags'></i>"
 
 [taxonomies]
-#venues = "venues"
+# venues = "venues"
 category = "categories"
-#tag = "tags"
-#series = "series"
+# tag = "tags"
+# series = "series"
 
 [privacy]
 
