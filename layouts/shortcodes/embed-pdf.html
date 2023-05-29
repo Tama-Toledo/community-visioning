@@ -134,7 +134,7 @@ function showContent() {
  * If we haven't disabled the loader, show loader and hide canvas
  */
 function showLoader() {
-  if(hideLoader) return
+  if (hideLoader) return
   loadingWrapper.style.display = 'flex';
   canvas.style.display = 'none';
 }
@@ -192,7 +192,7 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
   document.getElementById('page_count').textContent = numPages;
   
   // If the user passed in a number that is out of range, render the last page.
-  if(pageNum > numPages) {
+  if (pageNum > numPages) {
     pageNum = numPages
   }
 
