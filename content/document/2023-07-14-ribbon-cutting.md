@@ -1,15 +1,6 @@
 ---
 title: "Ribbon Cutting!"
 date: 2023-07-14
-publishDate: 2023-07-02T12:12:50-05:00
-startTime: "Noon"
-endTime: "12:30pm"
-location: "Business 30 and Broadway"
-city: "Toledo, IA"
-venues:
-  - Toledo
-draft: false
-expiryDate: 2023-07-15
 last_modified_at: 2023-07-08T12:07:00
 --- 
 
