@@ -1,14 +1,14 @@
 ---
 title: "Ribbon Cutting with Photos!"
-date: 2023-07-14
 publishDate: 2023-08-31T08:43:21-05:00
-location: "Business 30 and Broadway"
-city: "Toledo, IA"
-venues:
-  - Toledo
 draft: false
-last_modified_at: 2023-08-31T09:10:14
---- 
+tags:
+    - Post
+categories:
+    - General
+draft: false
+author: Denise Fletcher
+---
 
 _What follows is a transcript and photos from our July 14, 2023, ribbon cutting ceremony for the new crosswalks and RRFBs on Business 30 and Broadway in Toledo._   
 
@@ -30,5 +30,5 @@ After Jace Thomas cuts the ribbon, we want each of you to take a piece, date it 
 
 ![Group Photo](https://tamatoledocv.blob.core.windows.net/cv-resources/Ribbon%20Cutting%20Group.JPG)
 
-{{% figure src="https://tamatoledocv.blob.core.windows.net/cv-resources/Ribbon%20Cutting%20-%20Done.JPG" caption="Done!" %}}
+![Done!](https://tamatoledocv.blob.core.windows.net/cv-resources/Ribbon%20Cutting%20-%20Done.JPG)
 
