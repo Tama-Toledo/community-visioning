@@ -16,9 +16,8 @@ expiryDate: 2023-09-28
 
 Ever been interested in discovering the South Tama Rec Trail and learning more about the trail and future plans?  Well, on **Wednesday, September 27**, we will provide a golf cart tour of the South Tama Rec Trail for individuals age 50 and older who cannot comfortably walk the trail. 
 
-Some of our planning material is available on our [Documents page](./document). Watch this space for more information as elements of this event are confirmed.
+Check out our informational posters (English and Spanish versions) below.  
 
+![English](https://tamatoledocv.blob.core.windows.net/cv-resources/cart-ride-card-for-poster-as-pdf-2023.png)
 
-
-   
- 
+![Spanish](https://tamatoledocv.blob.core.windows.net/cv-resources/cart-ride-card-for-poster-as-pdf-2023-spanish.png)
