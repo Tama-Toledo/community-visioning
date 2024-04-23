@@ -109,6 +109,13 @@ theme="bootstrap-bp-hugo-theme"
     weight = 27
     pre = "<i class='fas fa-school'></i>"
 
+  [[menu.main]]
+    identifier = "go"
+    name = "GO!"
+    url = "/go/"
+    weight = 29
+    pre = "<i class='fas fa-shoe-prints'></i>"
+
   [[menu.footer]]
     identifier = "about"
     name = "About"
