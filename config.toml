@@ -6,7 +6,7 @@ title = "Tama-Toledo Community Visioning"
 # ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*"]
 languageCode = "en"
 DefaultContentLanguage = "en"
-enableInlineShortcodes = true
+# enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 enableEmoji = true
 
@@ -18,7 +18,12 @@ enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
 # paginate = 10
-theme="bootstrap-bp-hugo-theme"
+
+
+# From https://github.com/anvithks/hugo-embed-pdf-shortcode...
+theme = ["hugo-embed-pdf-shortcode", "bootstrap-bp-hugo-theme"]
+enableInlineShortcodes = true
+
 
 ## Config settings for the new, default "Goldmark" markdown engine
 [markup]
