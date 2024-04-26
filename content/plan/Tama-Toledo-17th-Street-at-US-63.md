@@ -20,4 +20,5 @@ Two solution options were proposed at this location:
 
   - The second option, considerably more complex and expensive than the first, calls for a pedestrian overpass at the same location as the crossing proposed in the first option. This expensive option, at an estimated cost in excess of $1.5 million, is not included in the PDF.
 
-{{< embed-pdf url="../../pdfs/9d_17thSt_US63-Binder-Complete.pdf" >}}
+{{< embed-pdf url="https://tamatoledocv.blob.core.windows.net/cv-resources/9d_17thSt_US63-Binder-Complete.pdf" >}}
+
