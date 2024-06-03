@@ -7,7 +7,7 @@
 
 <div class="container mt-3 mb-3">
     {{/* $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "!=" "page") */}}
-    {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "in" (slice "post" "event" "education")) }}
+    {{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "in" (slice "post" "event" "education" "go")) }}
 
     {{ if .Site.Params.startPageColumns }}
         <div class="card-columns">
