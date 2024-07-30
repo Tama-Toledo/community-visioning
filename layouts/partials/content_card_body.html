@@ -41,7 +41,8 @@
         {{ end }}
     {{ else }}
       {{ if eq .Type "event" }}
-        <span class="event-date-time">{{ .Params.Date.Format "January 2" }} from {{ .Params.startTime }} - {{ .Params.endTime }} at {{ .Params.location }}, {{ .Params.city }}</span>
+        <!-- span class="event-date-time">{{ .Params.Date.Format "January 2" }} from {{ .Params.startTime }} - {{ .Params.endTime }} at {{ .Params.location }}, {{ .Params.city }}</span -->
+        <span class="event-date-time">See Meeting Agenda for Details</span>
       {{ end }}
       <p class="card-text">{{ .Content }}</p>
     {{ end }}

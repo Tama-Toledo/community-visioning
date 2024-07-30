@@ -21,10 +21,10 @@ Approved graphics, courtesy of [Iowa Healthiest State](http://www.iowahealthiest
 
 ## Next Meeting Agenda
 
-There is now a Google Doc, published via...
+There is now a Google Doc at https://docs.google.com/document/d/1qrUjqsgFGZ7-eBTHN-Cu0oJJ_dVOFlZuKC5l-zMcTLw/edit, published via...
 
 ```
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTdOP2yl-kYvKzROB_-IIthhjSuLQA-KL1W_Y9WxP_V52KWzYlNeSFQ0X23m-nGVJj4wzU29E03RssI/pub?embedded=true" width="100%" height="600"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSv7rT3Uu0lu4X8lkhuLReVtSngg-GMYAC43ekeseyq7s5dpQ2Z0pzs_MCZmIhkSukdLHHb6w4onT-g/pub?embedded=true width="100%" height="600"></iframe>
 ```
 
 ...that should be updated EACH MONTH (it's automatically published on the site) to reflect the next meeting time, location, and agenda.  
