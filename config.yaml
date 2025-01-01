@@ -1,0 +1,106 @@
+title: Tama-Toledo Community Visioning
+languageCode: en
+DefaultContentLanguage: en
+footnoteReturnLinkContents: ^
+enableEmoji: true
+enableRobotsTXT: true
+pygmentsCodeFences: true
+canonifyurls: true
+theme:
+  - hugo-embed-pdf-shortcode
+  - bootstrap-bp-hugo-theme
+enableInlineShortcodes: true
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    hrefTargetBlank: true
+    renderer:
+      unsafe: true
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+permalinks:
+  posts: '/:year/:month/:slug/'
+  post: '/:year/:month/:slug/'
+  pages: '/:slug/'
+  page: '/:slug/'
+Author:
+  name: Mackenzie McFate
+params:
+  Author:
+    name: Mackenzie McFate
+  bannerImage: /images/Banner-with-HH-logo.png
+  description: Copyright © 2023. All Rights Reserved. Original design by Mark A. McFate
+  images:
+    - logo.jpg
+    - banner1.png
+    - Banner-with-HH-logo.png
+  alwaysExpandMenu: true
+  customDateFormat: 'Monday, January 2, 2006'
+  hideReadingTime: true
+  social:
+    email: cv@summittservices.com
+menu:
+  main:
+    - identifier: about
+      name: About Us
+      url: /about/
+      weight: 10
+      pre: <i class='fas fa-address-card'></i>
+    - identifier: plan
+      name: Plans
+      url: /plan/
+      weight: 15
+      pre: <i class='fas fa-drafting-compass'></i>
+    - identifier: event
+      name: Events
+      url: /event/
+      weight: 20
+      pre: <i class='fas fa-align-justify'></i>
+    - identifier: document
+      name: Documents
+      url: /document/
+      weight: 25
+      pre: <i class='far fa-file-pdf'></i>
+    - identifier: education
+      name: Education
+      url: /education/
+      weight: 27
+      pre: <i class='fas fa-school'></i>
+    - identifier: go
+      name: GO!
+      url: /go/
+      weight: 29
+      pre: <i class='fas fa-shoe-prints'></i>
+  footer:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+      pre: <i class='fas fa-address-card'></i>
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
+      pre: <i class='fas fa-tags'></i>
+taxonomies:
+  category: categories
+privacy:
+  vimeo:
+    disable: false
+    simple: true
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disable: false
+    simple: true
+  youtube:
+    disable: false
+    privacyEnhanced: true
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

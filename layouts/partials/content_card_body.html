@@ -11,7 +11,7 @@
         {{ if .Params.author }}
           {{ .Params.author }}
         {{ else }}
-          {{ range .Site.Author }}{{ . }}{{ end }}
+          {{ range .Site.Params.Author }}{{ . }}{{ end }}
         {{ end }}
         {{ if ne .Site.Params.hideReadingTime true }}
             {{ if and (not (.Scratch.Get "showPostSummary")) (.Scratch.Get "fullsize") }}
