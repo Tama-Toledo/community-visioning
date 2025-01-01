@@ -1,6 +1,997 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tama-Toledo on Tama-Toledo Community Visioning</title><link>/categories/tama-toledo/</link><description>Recent content in Tama-Toledo on Tama-Toledo Community Visioning</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 10 Dec 2021 17:33:29 -0600</lastBuildDate><atom:link href="/categories/tama-toledo/index.xml" rel="self" type="application/rss+xml"/><item><title>Tama-Toledo Program Overview</title><link>/tama-toledo-program-overview/</link><pubDate>Tue, 07 Dec 2021 22:33:29 -0600</pubDate><guid>/tama-toledo-program-overview/</guid><description>This is PAGE Tama-Toledo-Program-Overview.md.
-Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here.</description></item><item><title>Tama-Toledo: Program Overview (01)</title><link>/plan/tama-toledo-program-overview/</link><pubDate>Tue, 07 Dec 2021 22:33:29 -0600</pubDate><guid>/plan/tama-toledo-program-overview/</guid><description>This is PLAN Tama-Toledo-Program-Overview.md.
-Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here.</description></item><item><title>Tama-Toledo: Concept Overview (8a)</title><link>/plan/tama-toledo-concept-overview/</link><pubDate>Fri, 10 Dec 2021 17:33:29 -0600</pubDate><guid>/plan/tama-toledo-concept-overview/</guid><description>This is the overall concept plan for Tama-Toledo split into eight pages. The first page includes some comments about the overall plan along with a legend of specific project highlights. Those highlights appear on maps of Toledo (page 2) and Tama (page 3). A small overlap of Toledo into Tama, and vis-versa is provided for reference and alignment.
-The remaining pages include:
-Page 4: A summary of trail/sidewalk segments A through N with total estimated costs.</description></item><item><title>Test-PDF</title><link>/plan/test-pdf/</link><pubDate>Tue, 07 Dec 2021 21:32:02 -0600</pubDate><guid>/plan/test-pdf/</guid><description>This is PLAN Test-PDF.md. This &amp;ldquo;test&amp;rdquo; example shows how the original PDFs created for this project are difficult to read when rendered for the web.
-Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tama-Toledo on Tama-Toledo Community Visioning</title><link>/categories/tama-toledo/</link><description>Recent content in Tama-Toledo on Tama-Toledo Community Visioning</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 10 Dec 2021 17:33:29 -0600</lastBuildDate><atom:link href="/categories/tama-toledo/index.xml" rel="self" type="application/rss+xml"/><item><title>Tama-Toledo Program Overview</title><link>/tama-toledo-program-overview/</link><pubDate>Tue, 07 Dec 2021 22:33:29 -0600</pubDate><guid>/tama-toledo-program-overview/</guid><description>&lt;p>This is PAGE &lt;em>Tama-Toledo-Program-Overview.md&lt;/em>.&lt;/p>
+&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
+
+&lt;style>
+ #embed-pdf-container {
+ position: relative;
+ width: 100%;
+ height: auto;
+ min-height: 20vh;
+ 
+ }
+ 
+ .pdf-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ #the-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ 
+ .pdf-loadingWrapper {
+ display: none;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 350px;
+ }
+ 
+ .pdf-loading {
+ display: inline-block;
+ width: 50px;
+ height: 50px;
+ border: 3px solid #d2d0d0;;
+ border-radius: 50%;
+ border-top-color: #383838;
+ animation: spin 1s ease-in-out infinite;
+ -webkit-animation: spin 1s ease-in-out infinite;
+ }
+ 
+ 
+ 
+ 
+ 
+ #overlayText {
+ word-wrap: break-word;
+ display: grid;
+ justify-content: end;
+ }
+ 
+ #overlayText a {
+ position: relative;
+ top: 10px;
+ right: 4px;
+ color: #000;
+ margin: auto;
+ background-color: #eeeeee;
+ padding: 0.3em 1em;
+ border: solid 2px;
+ border-radius: 12px;
+ border-color: #00000030;
+ text-decoration: none;
+ }
+ 
+ #overlayText svg {
+ height: clamp(1em, 2vw, 1.4em);
+ width: clamp(1em, 2vw, 1.4em);
+ }
+ 
+ 
+ 
+ @keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ @-webkit-keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ &lt;/style>&lt;div class="embed-pdf-container" id="embed-pdf-container-d14e5396">
+ &lt;div class="pdf-loadingWrapper" id="pdf-loadingWrapper-d14e5396">
+ &lt;div class="pdf-loading" id="pdf-loading-d14e5396">&lt;/div>
+ &lt;/div>
+ &lt;div id="overlayText">
+ &lt;a href="pdfs/01_TamaToledo_ProgramOverview-Binder.pdf" aria-label="Download" download>
+ &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+ &lt;path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+ &lt;/svg>
+ &lt;/a>
+ &lt;/div>
+ &lt;canvas class="pdf-canvas" id="pdf-canvas-d14e5396">&lt;/canvas>
+&lt;/div>
+
+&lt;div class="pdf-paginator" id="pdf-paginator-d14e5396">
+ &lt;button id="pdf-prev-d14e5396">Previous&lt;/button>
+ &lt;button id="pdf-next-d14e5396">Next&lt;/button> &amp;nbsp; &amp;nbsp;
+ &lt;span>
+ &lt;span class="pdf-pagenum" id="pdf-pagenum-d14e5396">&lt;/span> / &lt;span class="pdf-pagecount" id="pdf-pagecount-d14e5396">&lt;/span>
+ &lt;/span>
+ &lt;a class="pdf-source" id="pdf-source-d14e5396" href="pdfs/01_TamaToledo_ProgramOverview-Binder.pdf">[pdf]&lt;/a>
+&lt;/div>
+
+&lt;noscript>
+View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-d14e5396" href="pdfs/01_TamaToledo_ProgramOverview-Binder.pdf">here&lt;/a>.
+&lt;/noscript>
+
+&lt;script type="text/javascript">
+ (function(){
+ var url = 'pdfs\/01_TamaToledo_ProgramOverview-Binder.pdf';
+
+ var hidePaginator = "" === "true";
+ var hideLoader = "" === "true";
+ var selectedPageNum = parseInt("") || 1;
+
+ 
+ var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+ 
+ if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+ pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+
+ 
+ var pdfDoc = null,
+ pageNum = selectedPageNum,
+ pageRendering = false,
+ pageNumPending = null,
+ scale = 3,
+ canvas = document.getElementById('pdf-canvas-d14e5396'),
+ ctx = canvas.getContext('2d'),
+ paginator = document.getElementById("pdf-paginator-d14e5396"),
+ loadingWrapper = document.getElementById('pdf-loadingWrapper-d14e5396');
+
+
+ 
+ showPaginator();
+ showLoader();
+
+ 
+
+ function renderPage(num) {
+ pageRendering = true;
+ 
+ pdfDoc.getPage(num).then(function(page) {
+ var viewport = page.getViewport({scale: scale});
+ canvas.height = viewport.height;
+ canvas.width = viewport.width;
+
+ 
+ var renderContext = {
+ canvasContext: ctx,
+ viewport: viewport
+ };
+ var renderTask = page.render(renderContext);
+
+ 
+ renderTask.promise.then(function() {
+ pageRendering = false;
+ showContent();
+
+ if (pageNumPending !== null) {
+ 
+ renderPage(pageNumPending);
+ pageNumPending = null;
+ }
+ });
+ });
+
+ 
+ document.getElementById('pdf-pagenum-d14e5396').textContent = num;
+ }
+
+ 
+
+ function showContent() {
+ loadingWrapper.style.display = 'none';
+ canvas.style.display = 'block';
+ }
+
+ 
+
+ function showLoader() {
+ if(hideLoader) return
+ loadingWrapper.style.display = 'flex';
+ canvas.style.display = 'none';
+ }
+
+ 
+
+ function showPaginator() {
+ if(hidePaginator) return
+ paginator.style.display = 'block';
+ }
+
+ 
+
+ function queueRenderPage(num) {
+ if (pageRendering) {
+ pageNumPending = num;
+ } else {
+ renderPage(num);
+ }
+ }
+
+ 
+
+ function onPrevPage() {
+ if (pageNum &lt;= 1) {
+ return;
+ }
+ pageNum--;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-prev-d14e5396').addEventListener('click', onPrevPage);
+
+ 
+
+ function onNextPage() {
+ if (pageNum >= pdfDoc.numPages) {
+ return;
+ }
+ pageNum++;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-next-d14e5396').addEventListener('click', onNextPage);
+
+ 
+
+ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+ pdfDoc = pdfDoc_;
+ var numPages = pdfDoc.numPages;
+ document.getElementById('pdf-pagecount-d14e5396').textContent = numPages;
+
+ 
+ if(pageNum > numPages) {
+ pageNum = numPages
+ }
+
+ 
+ renderPage(pageNum);
+ });
+ })();
+&lt;/script></description></item><item><title>Tama-Toledo: Program Overview (01)</title><link>/plan/tama-toledo-program-overview/</link><pubDate>Tue, 07 Dec 2021 22:33:29 -0600</pubDate><guid>/plan/tama-toledo-program-overview/</guid><description>&lt;p>This is PLAN &lt;em>Tama-Toledo-Program-Overview.md&lt;/em>.&lt;/p>
+&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
+
+&lt;style>
+ #embed-pdf-container {
+ position: relative;
+ width: 100%;
+ height: auto;
+ min-height: 20vh;
+ 
+ }
+ 
+ .pdf-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ #the-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ 
+ .pdf-loadingWrapper {
+ display: none;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 350px;
+ }
+ 
+ .pdf-loading {
+ display: inline-block;
+ width: 50px;
+ height: 50px;
+ border: 3px solid #d2d0d0;;
+ border-radius: 50%;
+ border-top-color: #383838;
+ animation: spin 1s ease-in-out infinite;
+ -webkit-animation: spin 1s ease-in-out infinite;
+ }
+ 
+ 
+ 
+ 
+ 
+ #overlayText {
+ word-wrap: break-word;
+ display: grid;
+ justify-content: end;
+ }
+ 
+ #overlayText a {
+ position: relative;
+ top: 10px;
+ right: 4px;
+ color: #000;
+ margin: auto;
+ background-color: #eeeeee;
+ padding: 0.3em 1em;
+ border: solid 2px;
+ border-radius: 12px;
+ border-color: #00000030;
+ text-decoration: none;
+ }
+ 
+ #overlayText svg {
+ height: clamp(1em, 2vw, 1.4em);
+ width: clamp(1em, 2vw, 1.4em);
+ }
+ 
+ 
+ 
+ @keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ @-webkit-keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ &lt;/style>&lt;div class="embed-pdf-container" id="embed-pdf-container-56f39ca8">
+ &lt;div class="pdf-loadingWrapper" id="pdf-loadingWrapper-56f39ca8">
+ &lt;div class="pdf-loading" id="pdf-loading-56f39ca8">&lt;/div>
+ &lt;/div>
+ &lt;div id="overlayText">
+ &lt;a href="../../pdfs/01_TamaToledo_ProgramOverview-Binder.pdf" aria-label="Download" download>
+ &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+ &lt;path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+ &lt;/svg>
+ &lt;/a>
+ &lt;/div>
+ &lt;canvas class="pdf-canvas" id="pdf-canvas-56f39ca8">&lt;/canvas>
+&lt;/div>
+
+&lt;div class="pdf-paginator" id="pdf-paginator-56f39ca8">
+ &lt;button id="pdf-prev-56f39ca8">Previous&lt;/button>
+ &lt;button id="pdf-next-56f39ca8">Next&lt;/button> &amp;nbsp; &amp;nbsp;
+ &lt;span>
+ &lt;span class="pdf-pagenum" id="pdf-pagenum-56f39ca8">&lt;/span> / &lt;span class="pdf-pagecount" id="pdf-pagecount-56f39ca8">&lt;/span>
+ &lt;/span>
+ &lt;a class="pdf-source" id="pdf-source-56f39ca8" href="../../pdfs/01_TamaToledo_ProgramOverview-Binder.pdf">[pdf]&lt;/a>
+&lt;/div>
+
+&lt;noscript>
+View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-56f39ca8" href="../../pdfs/01_TamaToledo_ProgramOverview-Binder.pdf">here&lt;/a>.
+&lt;/noscript>
+
+&lt;script type="text/javascript">
+ (function(){
+ var url = '..\/..\/pdfs\/01_TamaToledo_ProgramOverview-Binder.pdf';
+
+ var hidePaginator = "" === "true";
+ var hideLoader = "" === "true";
+ var selectedPageNum = parseInt("") || 1;
+
+ 
+ var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+ 
+ if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+ pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+
+ 
+ var pdfDoc = null,
+ pageNum = selectedPageNum,
+ pageRendering = false,
+ pageNumPending = null,
+ scale = 3,
+ canvas = document.getElementById('pdf-canvas-56f39ca8'),
+ ctx = canvas.getContext('2d'),
+ paginator = document.getElementById("pdf-paginator-56f39ca8"),
+ loadingWrapper = document.getElementById('pdf-loadingWrapper-56f39ca8');
+
+
+ 
+ showPaginator();
+ showLoader();
+
+ 
+
+ function renderPage(num) {
+ pageRendering = true;
+ 
+ pdfDoc.getPage(num).then(function(page) {
+ var viewport = page.getViewport({scale: scale});
+ canvas.height = viewport.height;
+ canvas.width = viewport.width;
+
+ 
+ var renderContext = {
+ canvasContext: ctx,
+ viewport: viewport
+ };
+ var renderTask = page.render(renderContext);
+
+ 
+ renderTask.promise.then(function() {
+ pageRendering = false;
+ showContent();
+
+ if (pageNumPending !== null) {
+ 
+ renderPage(pageNumPending);
+ pageNumPending = null;
+ }
+ });
+ });
+
+ 
+ document.getElementById('pdf-pagenum-56f39ca8').textContent = num;
+ }
+
+ 
+
+ function showContent() {
+ loadingWrapper.style.display = 'none';
+ canvas.style.display = 'block';
+ }
+
+ 
+
+ function showLoader() {
+ if(hideLoader) return
+ loadingWrapper.style.display = 'flex';
+ canvas.style.display = 'none';
+ }
+
+ 
+
+ function showPaginator() {
+ if(hidePaginator) return
+ paginator.style.display = 'block';
+ }
+
+ 
+
+ function queueRenderPage(num) {
+ if (pageRendering) {
+ pageNumPending = num;
+ } else {
+ renderPage(num);
+ }
+ }
+
+ 
+
+ function onPrevPage() {
+ if (pageNum &lt;= 1) {
+ return;
+ }
+ pageNum--;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-prev-56f39ca8').addEventListener('click', onPrevPage);
+
+ 
+
+ function onNextPage() {
+ if (pageNum >= pdfDoc.numPages) {
+ return;
+ }
+ pageNum++;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-next-56f39ca8').addEventListener('click', onNextPage);
+
+ 
+
+ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+ pdfDoc = pdfDoc_;
+ var numPages = pdfDoc.numPages;
+ document.getElementById('pdf-pagecount-56f39ca8').textContent = numPages;
+
+ 
+ if(pageNum > numPages) {
+ pageNum = numPages
+ }
+
+ 
+ renderPage(pageNum);
+ });
+ })();
+&lt;/script></description></item><item><title>Tama-Toledo: Concept Overview (8a)</title><link>/plan/tama-toledo-concept-overview/</link><pubDate>Fri, 10 Dec 2021 17:33:29 -0600</pubDate><guid>/plan/tama-toledo-concept-overview/</guid><description>&lt;p>This is the overall concept plan for Tama-Toledo split into eight pages. The first page includes some comments about the overall plan along with a legend of specific project highlights. Those highlights appear on maps of Toledo (page 2) and Tama (page 3). A small overlap of Toledo into Tama, and vis-versa is provided for reference and alignment.&lt;/p>
+&lt;p>The remaining pages include:&lt;/p>
+&lt;ul>
+&lt;li>Page 4: A summary of trail/sidewalk segments &lt;em>A&lt;/em> through &lt;em>N&lt;/em> with total estimated costs.&lt;/li>
+&lt;li>Page 5: Estimated cost details for segments &lt;em>B&lt;/em>, &lt;em>C&lt;/em>, &lt;em>E&lt;/em>, and &lt;em>F&lt;/em>.&lt;/li>
+&lt;li>Page 6: Estimated cost details for segments &lt;em>F&lt;/em> (repeated), &lt;em>G&lt;/em>, &lt;em>H&lt;/em>, and &lt;em>I&lt;/em>.&lt;/li>
+&lt;li>Page 7: Estimated cost details for segments &lt;em>J&lt;/em>, &lt;em>K&lt;/em>, &lt;em>L&lt;/em>, and &lt;em>M&lt;/em>.&lt;/li>
+&lt;li>Page 8: Estimated cost details for segment &lt;em>N&lt;/em> (not labeled), the estimated grand total, and notes.&lt;/li>
+&lt;/ul>
+&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
+
+&lt;style>
+ #embed-pdf-container {
+ position: relative;
+ width: 100%;
+ height: auto;
+ min-height: 20vh;
+ 
+ }
+ 
+ .pdf-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ #the-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ 
+ .pdf-loadingWrapper {
+ display: none;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 350px;
+ }
+ 
+ .pdf-loading {
+ display: inline-block;
+ width: 50px;
+ height: 50px;
+ border: 3px solid #d2d0d0;;
+ border-radius: 50%;
+ border-top-color: #383838;
+ animation: spin 1s ease-in-out infinite;
+ -webkit-animation: spin 1s ease-in-out infinite;
+ }
+ 
+ 
+ 
+ 
+ 
+ #overlayText {
+ word-wrap: break-word;
+ display: grid;
+ justify-content: end;
+ }
+ 
+ #overlayText a {
+ position: relative;
+ top: 10px;
+ right: 4px;
+ color: #000;
+ margin: auto;
+ background-color: #eeeeee;
+ padding: 0.3em 1em;
+ border: solid 2px;
+ border-radius: 12px;
+ border-color: #00000030;
+ text-decoration: none;
+ }
+ 
+ #overlayText svg {
+ height: clamp(1em, 2vw, 1.4em);
+ width: clamp(1em, 2vw, 1.4em);
+ }
+ 
+ 
+ 
+ @keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ @-webkit-keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ &lt;/style>&lt;div class="embed-pdf-container" id="embed-pdf-container-fb6a6117">
+ &lt;div class="pdf-loadingWrapper" id="pdf-loadingWrapper-fb6a6117">
+ &lt;div class="pdf-loading" id="pdf-loading-fb6a6117">&lt;/div>
+ &lt;/div>
+ &lt;div id="overlayText">
+ &lt;a href="../../pdfs/08a-ConceptOverview-Binder2.pdf" aria-label="Download" download>
+ &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+ &lt;path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+ &lt;/svg>
+ &lt;/a>
+ &lt;/div>
+ &lt;canvas class="pdf-canvas" id="pdf-canvas-fb6a6117">&lt;/canvas>
+&lt;/div>
+
+&lt;div class="pdf-paginator" id="pdf-paginator-fb6a6117">
+ &lt;button id="pdf-prev-fb6a6117">Previous&lt;/button>
+ &lt;button id="pdf-next-fb6a6117">Next&lt;/button> &amp;nbsp; &amp;nbsp;
+ &lt;span>
+ &lt;span class="pdf-pagenum" id="pdf-pagenum-fb6a6117">&lt;/span> / &lt;span class="pdf-pagecount" id="pdf-pagecount-fb6a6117">&lt;/span>
+ &lt;/span>
+ &lt;a class="pdf-source" id="pdf-source-fb6a6117" href="../../pdfs/08a-ConceptOverview-Binder2.pdf">[pdf]&lt;/a>
+&lt;/div>
+
+&lt;noscript>
+View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-fb6a6117" href="../../pdfs/08a-ConceptOverview-Binder2.pdf">here&lt;/a>.
+&lt;/noscript>
+
+&lt;script type="text/javascript">
+ (function(){
+ var url = '..\/..\/pdfs\/08a-ConceptOverview-Binder2.pdf';
+
+ var hidePaginator = "" === "true";
+ var hideLoader = "" === "true";
+ var selectedPageNum = parseInt("") || 1;
+
+ 
+ var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+ 
+ if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+ pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+
+ 
+ var pdfDoc = null,
+ pageNum = selectedPageNum,
+ pageRendering = false,
+ pageNumPending = null,
+ scale = 3,
+ canvas = document.getElementById('pdf-canvas-fb6a6117'),
+ ctx = canvas.getContext('2d'),
+ paginator = document.getElementById("pdf-paginator-fb6a6117"),
+ loadingWrapper = document.getElementById('pdf-loadingWrapper-fb6a6117');
+
+
+ 
+ showPaginator();
+ showLoader();
+
+ 
+
+ function renderPage(num) {
+ pageRendering = true;
+ 
+ pdfDoc.getPage(num).then(function(page) {
+ var viewport = page.getViewport({scale: scale});
+ canvas.height = viewport.height;
+ canvas.width = viewport.width;
+
+ 
+ var renderContext = {
+ canvasContext: ctx,
+ viewport: viewport
+ };
+ var renderTask = page.render(renderContext);
+
+ 
+ renderTask.promise.then(function() {
+ pageRendering = false;
+ showContent();
+
+ if (pageNumPending !== null) {
+ 
+ renderPage(pageNumPending);
+ pageNumPending = null;
+ }
+ });
+ });
+
+ 
+ document.getElementById('pdf-pagenum-fb6a6117').textContent = num;
+ }
+
+ 
+
+ function showContent() {
+ loadingWrapper.style.display = 'none';
+ canvas.style.display = 'block';
+ }
+
+ 
+
+ function showLoader() {
+ if(hideLoader) return
+ loadingWrapper.style.display = 'flex';
+ canvas.style.display = 'none';
+ }
+
+ 
+
+ function showPaginator() {
+ if(hidePaginator) return
+ paginator.style.display = 'block';
+ }
+
+ 
+
+ function queueRenderPage(num) {
+ if (pageRendering) {
+ pageNumPending = num;
+ } else {
+ renderPage(num);
+ }
+ }
+
+ 
+
+ function onPrevPage() {
+ if (pageNum &lt;= 1) {
+ return;
+ }
+ pageNum--;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-prev-fb6a6117').addEventListener('click', onPrevPage);
+
+ 
+
+ function onNextPage() {
+ if (pageNum >= pdfDoc.numPages) {
+ return;
+ }
+ pageNum++;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-next-fb6a6117').addEventListener('click', onNextPage);
+
+ 
+
+ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+ pdfDoc = pdfDoc_;
+ var numPages = pdfDoc.numPages;
+ document.getElementById('pdf-pagecount-fb6a6117').textContent = numPages;
+
+ 
+ if(pageNum > numPages) {
+ pageNum = numPages
+ }
+
+ 
+ renderPage(pageNum);
+ });
+ })();
+&lt;/script></description></item><item><title>Test-PDF</title><link>/plan/test-pdf/</link><pubDate>Tue, 07 Dec 2021 21:32:02 -0600</pubDate><guid>/plan/test-pdf/</guid><description>&lt;p>This is PLAN &lt;em>Test-PDF.md&lt;/em>. This &amp;ldquo;test&amp;rdquo; example shows how the original PDFs created for this project are difficult to read when rendered for the web.&lt;/p>
+&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
+
+&lt;style>
+ #embed-pdf-container {
+ position: relative;
+ width: 100%;
+ height: auto;
+ min-height: 20vh;
+ 
+ }
+ 
+ .pdf-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ #the-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+ display: none;
+ }
+ 
+ 
+ .pdf-loadingWrapper {
+ display: none;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 350px;
+ }
+ 
+ .pdf-loading {
+ display: inline-block;
+ width: 50px;
+ height: 50px;
+ border: 3px solid #d2d0d0;;
+ border-radius: 50%;
+ border-top-color: #383838;
+ animation: spin 1s ease-in-out infinite;
+ -webkit-animation: spin 1s ease-in-out infinite;
+ }
+ 
+ 
+ 
+ 
+ 
+ #overlayText {
+ word-wrap: break-word;
+ display: grid;
+ justify-content: end;
+ }
+ 
+ #overlayText a {
+ position: relative;
+ top: 10px;
+ right: 4px;
+ color: #000;
+ margin: auto;
+ background-color: #eeeeee;
+ padding: 0.3em 1em;
+ border: solid 2px;
+ border-radius: 12px;
+ border-color: #00000030;
+ text-decoration: none;
+ }
+ 
+ #overlayText svg {
+ height: clamp(1em, 2vw, 1.4em);
+ width: clamp(1em, 2vw, 1.4em);
+ }
+ 
+ 
+ 
+ @keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ @-webkit-keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+ }
+ &lt;/style>&lt;div class="embed-pdf-container" id="embed-pdf-container-3ed9c9ae">
+ &lt;div class="pdf-loadingWrapper" id="pdf-loadingWrapper-3ed9c9ae">
+ &lt;div class="pdf-loading" id="pdf-loading-3ed9c9ae">&lt;/div>
+ &lt;/div>
+ &lt;div id="overlayText">
+ &lt;a href="../../pdfs/01_TamaToledo_ProgramOverview.pdf" aria-label="Download" download>
+ &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+ &lt;path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+ &lt;/svg>
+ &lt;/a>
+ &lt;/div>
+ &lt;canvas class="pdf-canvas" id="pdf-canvas-3ed9c9ae">&lt;/canvas>
+&lt;/div>
+
+&lt;div class="pdf-paginator" id="pdf-paginator-3ed9c9ae">
+ &lt;button id="pdf-prev-3ed9c9ae">Previous&lt;/button>
+ &lt;button id="pdf-next-3ed9c9ae">Next&lt;/button> &amp;nbsp; &amp;nbsp;
+ &lt;span>
+ &lt;span class="pdf-pagenum" id="pdf-pagenum-3ed9c9ae">&lt;/span> / &lt;span class="pdf-pagecount" id="pdf-pagecount-3ed9c9ae">&lt;/span>
+ &lt;/span>
+ &lt;a class="pdf-source" id="pdf-source-3ed9c9ae" href="../../pdfs/01_TamaToledo_ProgramOverview.pdf">[pdf]&lt;/a>
+&lt;/div>
+
+&lt;noscript>
+View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-3ed9c9ae" href="../../pdfs/01_TamaToledo_ProgramOverview.pdf">here&lt;/a>.
+&lt;/noscript>
+
+&lt;script type="text/javascript">
+ (function(){
+ var url = '..\/..\/pdfs\/01_TamaToledo_ProgramOverview.pdf';
+
+ var hidePaginator = "" === "true";
+ var hideLoader = "" === "true";
+ var selectedPageNum = parseInt("") || 1;
+
+ 
+ var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+ 
+ if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+ pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+
+ 
+ var pdfDoc = null,
+ pageNum = selectedPageNum,
+ pageRendering = false,
+ pageNumPending = null,
+ scale = 3,
+ canvas = document.getElementById('pdf-canvas-3ed9c9ae'),
+ ctx = canvas.getContext('2d'),
+ paginator = document.getElementById("pdf-paginator-3ed9c9ae"),
+ loadingWrapper = document.getElementById('pdf-loadingWrapper-3ed9c9ae');
+
+
+ 
+ showPaginator();
+ showLoader();
+
+ 
+
+ function renderPage(num) {
+ pageRendering = true;
+ 
+ pdfDoc.getPage(num).then(function(page) {
+ var viewport = page.getViewport({scale: scale});
+ canvas.height = viewport.height;
+ canvas.width = viewport.width;
+
+ 
+ var renderContext = {
+ canvasContext: ctx,
+ viewport: viewport
+ };
+ var renderTask = page.render(renderContext);
+
+ 
+ renderTask.promise.then(function() {
+ pageRendering = false;
+ showContent();
+
+ if (pageNumPending !== null) {
+ 
+ renderPage(pageNumPending);
+ pageNumPending = null;
+ }
+ });
+ });
+
+ 
+ document.getElementById('pdf-pagenum-3ed9c9ae').textContent = num;
+ }
+
+ 
+
+ function showContent() {
+ loadingWrapper.style.display = 'none';
+ canvas.style.display = 'block';
+ }
+
+ 
+
+ function showLoader() {
+ if(hideLoader) return
+ loadingWrapper.style.display = 'flex';
+ canvas.style.display = 'none';
+ }
+
+ 
+
+ function showPaginator() {
+ if(hidePaginator) return
+ paginator.style.display = 'block';
+ }
+
+ 
+
+ function queueRenderPage(num) {
+ if (pageRendering) {
+ pageNumPending = num;
+ } else {
+ renderPage(num);
+ }
+ }
+
+ 
+
+ function onPrevPage() {
+ if (pageNum &lt;= 1) {
+ return;
+ }
+ pageNum--;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-prev-3ed9c9ae').addEventListener('click', onPrevPage);
+
+ 
+
+ function onNextPage() {
+ if (pageNum >= pdfDoc.numPages) {
+ return;
+ }
+ pageNum++;
+ queueRenderPage(pageNum);
+ }
+ document.getElementById('pdf-next-3ed9c9ae').addEventListener('click', onNextPage);
+
+ 
+
+ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+ pdfDoc = pdfDoc_;
+ var numPages = pdfDoc.numPages;
+ document.getElementById('pdf-pagecount-3ed9c9ae').textContent = numPages;
+
+ 
+ if(pageNum > numPages) {
+ pageNum = numPages
+ }
+
+ 
+ renderPage(pageNum);
+ });
+ })();
+&lt;/script></description></item></channel></rss>
