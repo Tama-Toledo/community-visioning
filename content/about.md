@@ -19,6 +19,24 @@ HAT is short for "Hometown Action Team", the new name for what was originally "T
 
 `Vision Statement`:  Individuals and families will travel throughout our communities to enjoy varied experiences, building stronger connections, with places and people. 
 
+## Recently Active Members
+
+This team has lately consisted of co-chairs:
+
+  - Karen Mixdorf,
+  - Shelly Riley, and 
+  - Denise Fletcher
+
+...with active members:
+
+  - Mark McFate, 
+  - Warren Riley, 
+  - Jeff Shaw, 
+  - Dorothy Zmolek,
+  - Lori Baier,
+  - Trudy Koch, and 
+  - Larry Thomas
+
 &nbsp;  
   
 # Tama-Toledo Community Visioning
