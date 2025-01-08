@@ -1,45 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tama on Tama-Toledo Community Visioning</title><link>/categories/tama/</link><description>Recent content in Tama on Tama-Toledo Community Visioning</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 21 Dec 2021 20:29:29 -0600</lastBuildDate><atom:link href="/categories/tama/index.xml" rel="self" type="application/rss+xml"/><item><title>Tama: Downtown (9a)</title><link>/plan/tama-downtown/</link><pubDate>Tue, 21 Dec 2021 18:59:29 -0600</pubDate><guid>/plan/tama-downtown/</guid><description>&lt;p>This plan, &lt;strong>9a&lt;/strong>, presents one &lt;a href="http://tacticalurbanismguide.com/about/" target="_blank" rel="noopener noreferrer">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tama on Tama-Toledo HATs - Hometown Action Team</title><link>/categories/tama/</link><description>Recent content in Tama on Tama-Toledo HATs - Hometown Action Team</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 21 Dec 2021 20:29:29 -0600</lastBuildDate><atom:link href="/categories/tama/index.xml" rel="self" type="application/rss+xml"/><item><title>Tama: Downtown (9a)</title><link>/plan/tama-downtown/</link><pubDate>Tue, 21 Dec 2021 18:59:29 -0600</pubDate><guid>/plan/tama-downtown/</guid><description>&lt;p>This plan, &lt;strong>9a&lt;/strong>, presents one &lt;a href="http://tacticalurbanismguide.com/about/" target="_blank" rel="noopener noreferrer">
 Tactical Urbanism
 &amp;nbsp;&lt;i class="fas fa-external-link-alt">&lt;/i>
 
 &lt;/a> option (page 2) and a more complex/expensive permanent streetscape option (page 3) for renovating downtown Tama.&lt;/p>
-&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
 
+
+&lt;script type="text/javascript" src= '//js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
- #embed-pdf-container {
- position: relative;
- width: 100%;
- height: auto;
- min-height: 20vh;
- 
- }
- 
- .pdf-canvas {
+#the-canvas {
  border: 1px solid black;
  direction: ltr;
  width: 100%;
  height: auto;
  display: none;
- }
- 
- #the-canvas {
- border: 1px solid black;
- direction: ltr;
- width: 100%;
- height: auto;
+}
+
+#paginator {
  display: none;
- }
- 
- 
- .pdf-loadingWrapper {
+ text-align: center;
+ margin-bottom: 10px;
+}
+
+#loadingWrapper {
  display: none;
  justify-content: center;
  align-items: center;
  width: 100%;
  height: 350px;
- }
- 
- .pdf-loading {
+}
+
+#loading {
  display: inline-block;
  width: 50px;
  height: 50px;
@@ -48,106 +38,64 @@ Tactical Urbanism
  border-top-color: #383838;
  animation: spin 1s ease-in-out infinite;
  -webkit-animation: spin 1s ease-in-out infinite;
- }
- 
- 
- 
- 
- 
- #overlayText {
- word-wrap: break-word;
- display: grid;
- justify-content: end;
- }
- 
- #overlayText a {
- position: relative;
- top: 10px;
- right: 4px;
- color: #000;
- margin: auto;
- background-color: #eeeeee;
- padding: 0.3em 1em;
- border: solid 2px;
- border-radius: 12px;
- border-color: #00000030;
- text-decoration: none;
- }
- 
- #overlayText svg {
- height: clamp(1em, 2vw, 1.4em);
- width: clamp(1em, 2vw, 1.4em);
- }
- 
- 
- 
- @keyframes spin {
- to { -webkit-transform: rotate(360deg); }
- }
- @-webkit-keyframes spin {
- to { -webkit-transform: rotate(360deg); }
- }
- &lt;/style>&lt;div class="embed-pdf-container" id="embed-pdf-container-6517d0ae">
- &lt;div class="pdf-loadingWrapper" id="pdf-loadingWrapper-6517d0ae">
- &lt;div class="pdf-loading" id="pdf-loading-6517d0ae">&lt;/div>
- &lt;/div>
- &lt;div id="overlayText">
- &lt;a href="../../pdfs/09a-Downtown-Binder.pdf" aria-label="Download" download>
- &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
- &lt;path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
- &lt;/svg>
- &lt;/a>
- &lt;/div>
- &lt;canvas class="pdf-canvas" id="pdf-canvas-6517d0ae">&lt;/canvas>
-&lt;/div>
+}
 
-&lt;div class="pdf-paginator" id="pdf-paginator-6517d0ae">
- &lt;button id="pdf-prev-6517d0ae">Previous&lt;/button>
- &lt;button id="pdf-next-6517d0ae">Next&lt;/button> &amp;nbsp; &amp;nbsp;
- &lt;span>
- &lt;span class="pdf-pagenum" id="pdf-pagenum-6517d0ae">&lt;/span> / &lt;span class="pdf-pagecount" id="pdf-pagecount-6517d0ae">&lt;/span>
- &lt;/span>
- &lt;a class="pdf-source" id="pdf-source-6517d0ae" href="../../pdfs/09a-Downtown-Binder.pdf">[pdf]&lt;/a>
-&lt;/div>
+@keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+}
+&lt;/style>
 
-&lt;noscript>
-View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-6517d0ae" href="../../pdfs/09a-Downtown-Binder.pdf">here&lt;/a>.
-&lt;/noscript>
+&lt;div id="paginator">
+ &lt;button id="prev">Previous&lt;/button>
+ &lt;button id="next">Next&lt;/button>
+ &amp;nbsp; &amp;nbsp;
+ &lt;span>Page: &lt;span id="page_num">&lt;/span> / &lt;span id="page_count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div id="embed-pdf-container">
+ &lt;div id="loadingWrapper">
+ &lt;div id="loading">&lt;/div>
+ &lt;/div>
+ &lt;canvas id="the-canvas">&lt;/canvas>
+&lt;/div>
 
 &lt;script type="text/javascript">
- (function(){
- var url = '..\/..\/pdfs\/09a-Downtown-Binder.pdf';
+window.onload = function() {
 
- var hidePaginator = "" === "true";
- var hideLoader = "" === "true";
- var selectedPageNum = parseInt("") || 1;
 
- 
- var pdfjsLib = window['pdfjs-dist/build/pdf'];
+var url = "\/" + '..\/..\/pdfs\/09a-Downtown-Binder.pdf';
 
- 
- if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
- pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+var hidePaginator = "" === "true";
+var hideLoader = "" === "true";
+var selectedPageNum = parseInt("") || 1;
 
- 
- var pdfDoc = null,
+
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + '/js/pdf-js/build/pdf.worker.js';
+
+
+var pdfDoc = null,
  pageNum = selectedPageNum,
  pageRendering = false,
  pageNumPending = null,
  scale = 3,
- canvas = document.getElementById('pdf-canvas-6517d0ae'),
+ canvas = document.getElementById('the-canvas'),
  ctx = canvas.getContext('2d'),
- paginator = document.getElementById("pdf-paginator-6517d0ae"),
- loadingWrapper = document.getElementById('pdf-loadingWrapper-6517d0ae');
+ paginator = document.getElementById("paginator"),
+ loadingWrapper = document.getElementById('loadingWrapper');
 
 
- 
- showPaginator();
- showLoader();
 
- 
+showPaginator();
+showLoader();
 
- function renderPage(num) {
+
+
+function renderPage(num) {
  pageRendering = true;
  
  pdfDoc.getPage(num).then(function(page) {
@@ -166,7 +114,7 @@ View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-6517d0ae" hre
  renderTask.promise.then(function() {
  pageRendering = false;
  showContent();
-
+ 
  if (pageNumPending !== null) {
  
  renderPage(pageNumPending);
@@ -176,121 +124,112 @@ View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-6517d0ae" hre
  });
 
  
- document.getElementById('pdf-pagenum-6517d0ae').textContent = num;
- }
+ document.getElementById('page_num').textContent = num;
+}
 
- 
 
- function showContent() {
+
+function showContent() {
  loadingWrapper.style.display = 'none';
  canvas.style.display = 'block';
- }
+}
 
- 
 
- function showLoader() {
- if(hideLoader) return
+
+function showLoader() {
+ if (hideLoader) return
  loadingWrapper.style.display = 'flex';
  canvas.style.display = 'none';
- }
+}
 
- 
 
- function showPaginator() {
+
+function showPaginator() {
  if(hidePaginator) return
  paginator.style.display = 'block';
- }
+}
 
- 
 
- function queueRenderPage(num) {
+
+function queueRenderPage(num) {
  if (pageRendering) {
  pageNumPending = num;
  } else {
  renderPage(num);
  }
- }
+}
 
- 
 
- function onPrevPage() {
+
+function onPrevPage() {
  if (pageNum &lt;= 1) {
  return;
  }
  pageNum--;
  queueRenderPage(pageNum);
- }
- document.getElementById('pdf-prev-6517d0ae').addEventListener('click', onPrevPage);
+}
+document.getElementById('prev').addEventListener('click', onPrevPage);
 
- 
 
- function onNextPage() {
+
+function onNextPage() {
  if (pageNum >= pdfDoc.numPages) {
  return;
  }
  pageNum++;
  queueRenderPage(pageNum);
- }
- document.getElementById('pdf-next-6517d0ae').addEventListener('click', onNextPage);
+}
+document.getElementById('next').addEventListener('click', onNextPage);
 
- 
 
- pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
  pdfDoc = pdfDoc_;
  var numPages = pdfDoc.numPages;
- document.getElementById('pdf-pagecount-6517d0ae').textContent = numPages;
-
+ document.getElementById('page_count').textContent = numPages;
  
- if(pageNum > numPages) {
+ 
+ if (pageNum > numPages) {
  pageNum = numPages
  }
 
  
  renderPage(pageNum);
- });
- })();
+});
+}
+
 &lt;/script></description></item><item><title>Tama: State Street at US 63 (9b)</title><link>/plan/tama-state-street-and-us-63/</link><pubDate>Tue, 21 Dec 2021 19:59:29 -0600</pubDate><guid>/plan/tama-state-street-and-us-63/</guid><description>&lt;p>This plan, &lt;strong>9b&lt;/strong>, presents a &lt;a href="http://tacticalurbanismguide.com/about/" target="_blank" rel="noopener noreferrer">
 Tactical Urbanism
 &amp;nbsp;&lt;i class="fas fa-external-link-alt">&lt;/i>
 
 &lt;/a> option (page 2) and a more complex/expensive permanent streetscape option (page 3) for safety improvements at the State Street / US 63 intersection in Tama.&lt;/p>
-&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
 
+
+&lt;script type="text/javascript" src= '//js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
- #embed-pdf-container {
- position: relative;
- width: 100%;
- height: auto;
- min-height: 20vh;
- 
- }
- 
- .pdf-canvas {
+#the-canvas {
  border: 1px solid black;
  direction: ltr;
  width: 100%;
  height: auto;
  display: none;
- }
- 
- #the-canvas {
- border: 1px solid black;
- direction: ltr;
- width: 100%;
- height: auto;
+}
+
+#paginator {
  display: none;
- }
- 
- 
- .pdf-loadingWrapper {
+ text-align: center;
+ margin-bottom: 10px;
+}
+
+#loadingWrapper {
  display: none;
  justify-content: center;
  align-items: center;
  width: 100%;
  height: 350px;
- }
- 
- .pdf-loading {
+}
+
+#loading {
  display: inline-block;
  width: 50px;
  height: 50px;
@@ -299,106 +238,64 @@ Tactical Urbanism
  border-top-color: #383838;
  animation: spin 1s ease-in-out infinite;
  -webkit-animation: spin 1s ease-in-out infinite;
- }
- 
- 
- 
- 
- 
- #overlayText {
- word-wrap: break-word;
- display: grid;
- justify-content: end;
- }
- 
- #overlayText a {
- position: relative;
- top: 10px;
- right: 4px;
- color: #000;
- margin: auto;
- background-color: #eeeeee;
- padding: 0.3em 1em;
- border: solid 2px;
- border-radius: 12px;
- border-color: #00000030;
- text-decoration: none;
- }
- 
- #overlayText svg {
- height: clamp(1em, 2vw, 1.4em);
- width: clamp(1em, 2vw, 1.4em);
- }
- 
- 
- 
- @keyframes spin {
- to { -webkit-transform: rotate(360deg); }
- }
- @-webkit-keyframes spin {
- to { -webkit-transform: rotate(360deg); }
- }
- &lt;/style>&lt;div class="embed-pdf-container" id="embed-pdf-container-0fd93dc0">
- &lt;div class="pdf-loadingWrapper" id="pdf-loadingWrapper-0fd93dc0">
- &lt;div class="pdf-loading" id="pdf-loading-0fd93dc0">&lt;/div>
- &lt;/div>
- &lt;div id="overlayText">
- &lt;a href="../../pdfs/9b_StateSt_US63-Binder.pdf" aria-label="Download" download>
- &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
- &lt;path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
- &lt;/svg>
- &lt;/a>
- &lt;/div>
- &lt;canvas class="pdf-canvas" id="pdf-canvas-0fd93dc0">&lt;/canvas>
-&lt;/div>
+}
 
-&lt;div class="pdf-paginator" id="pdf-paginator-0fd93dc0">
- &lt;button id="pdf-prev-0fd93dc0">Previous&lt;/button>
- &lt;button id="pdf-next-0fd93dc0">Next&lt;/button> &amp;nbsp; &amp;nbsp;
- &lt;span>
- &lt;span class="pdf-pagenum" id="pdf-pagenum-0fd93dc0">&lt;/span> / &lt;span class="pdf-pagecount" id="pdf-pagecount-0fd93dc0">&lt;/span>
- &lt;/span>
- &lt;a class="pdf-source" id="pdf-source-0fd93dc0" href="../../pdfs/9b_StateSt_US63-Binder.pdf">[pdf]&lt;/a>
-&lt;/div>
+@keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+}
+&lt;/style>
 
-&lt;noscript>
-View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-0fd93dc0" href="../../pdfs/9b_StateSt_US63-Binder.pdf">here&lt;/a>.
-&lt;/noscript>
+&lt;div id="paginator">
+ &lt;button id="prev">Previous&lt;/button>
+ &lt;button id="next">Next&lt;/button>
+ &amp;nbsp; &amp;nbsp;
+ &lt;span>Page: &lt;span id="page_num">&lt;/span> / &lt;span id="page_count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div id="embed-pdf-container">
+ &lt;div id="loadingWrapper">
+ &lt;div id="loading">&lt;/div>
+ &lt;/div>
+ &lt;canvas id="the-canvas">&lt;/canvas>
+&lt;/div>
 
 &lt;script type="text/javascript">
- (function(){
- var url = '..\/..\/pdfs\/9b_StateSt_US63-Binder.pdf';
+window.onload = function() {
 
- var hidePaginator = "" === "true";
- var hideLoader = "" === "true";
- var selectedPageNum = parseInt("") || 1;
 
- 
- var pdfjsLib = window['pdfjs-dist/build/pdf'];
+var url = "\/" + '..\/..\/pdfs\/9b_StateSt_US63-Binder.pdf';
 
- 
- if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
- pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+var hidePaginator = "" === "true";
+var hideLoader = "" === "true";
+var selectedPageNum = parseInt("") || 1;
 
- 
- var pdfDoc = null,
+
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + '/js/pdf-js/build/pdf.worker.js';
+
+
+var pdfDoc = null,
  pageNum = selectedPageNum,
  pageRendering = false,
  pageNumPending = null,
  scale = 3,
- canvas = document.getElementById('pdf-canvas-0fd93dc0'),
+ canvas = document.getElementById('the-canvas'),
  ctx = canvas.getContext('2d'),
- paginator = document.getElementById("pdf-paginator-0fd93dc0"),
- loadingWrapper = document.getElementById('pdf-loadingWrapper-0fd93dc0');
+ paginator = document.getElementById("paginator"),
+ loadingWrapper = document.getElementById('loadingWrapper');
 
 
- 
- showPaginator();
- showLoader();
 
- 
+showPaginator();
+showLoader();
 
- function renderPage(num) {
+
+
+function renderPage(num) {
  pageRendering = true;
  
  pdfDoc.getPage(num).then(function(page) {
@@ -417,7 +314,7 @@ View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-0fd93dc0" hre
  renderTask.promise.then(function() {
  pageRendering = false;
  showContent();
-
+ 
  if (pageNumPending !== null) {
  
  renderPage(pageNumPending);
@@ -427,121 +324,112 @@ View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-0fd93dc0" hre
  });
 
  
- document.getElementById('pdf-pagenum-0fd93dc0').textContent = num;
- }
+ document.getElementById('page_num').textContent = num;
+}
 
- 
 
- function showContent() {
+
+function showContent() {
  loadingWrapper.style.display = 'none';
  canvas.style.display = 'block';
- }
+}
 
- 
 
- function showLoader() {
- if(hideLoader) return
+
+function showLoader() {
+ if (hideLoader) return
  loadingWrapper.style.display = 'flex';
  canvas.style.display = 'none';
- }
+}
 
- 
 
- function showPaginator() {
+
+function showPaginator() {
  if(hidePaginator) return
  paginator.style.display = 'block';
- }
+}
 
- 
 
- function queueRenderPage(num) {
+
+function queueRenderPage(num) {
  if (pageRendering) {
  pageNumPending = num;
  } else {
  renderPage(num);
  }
- }
+}
 
- 
 
- function onPrevPage() {
+
+function onPrevPage() {
  if (pageNum &lt;= 1) {
  return;
  }
  pageNum--;
  queueRenderPage(pageNum);
- }
- document.getElementById('pdf-prev-0fd93dc0').addEventListener('click', onPrevPage);
+}
+document.getElementById('prev').addEventListener('click', onPrevPage);
 
- 
 
- function onNextPage() {
+
+function onNextPage() {
  if (pageNum >= pdfDoc.numPages) {
  return;
  }
  pageNum++;
  queueRenderPage(pageNum);
- }
- document.getElementById('pdf-next-0fd93dc0').addEventListener('click', onNextPage);
+}
+document.getElementById('next').addEventListener('click', onNextPage);
 
- 
 
- pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
  pdfDoc = pdfDoc_;
  var numPages = pdfDoc.numPages;
- document.getElementById('pdf-pagecount-0fd93dc0').textContent = numPages;
-
+ document.getElementById('page_count').textContent = numPages;
  
- if(pageNum > numPages) {
+ 
+ if (pageNum > numPages) {
  pageNum = numPages
  }
 
  
  renderPage(pageNum);
- });
- })();
+});
+}
+
 &lt;/script></description></item><item><title>Tama: Harding Street at US 63 (9c)</title><link>/plan/tama-harding-and-us-63/</link><pubDate>Tue, 21 Dec 2021 20:29:29 -0600</pubDate><guid>/plan/tama-harding-and-us-63/</guid><description>&lt;p>This plan, &lt;strong>9c&lt;/strong>, presents a &lt;a href="http://tacticalurbanismguide.com/about/" target="_blank" rel="noopener noreferrer">
 Tactical Urbanism
 &amp;nbsp;&lt;i class="fas fa-external-link-alt">&lt;/i>
 
 &lt;/a> option (page 2) and a more complex/expensive permanent streetscape option (page 3) for safety improvements at the Harding Street / US 63 intersection in Tama.&lt;/p>
-&lt;script type="text/javascript" src= '/js/pdf-js/build/pdf.js'>&lt;/script>
 
+
+&lt;script type="text/javascript" src= '//js/pdf-js/build/pdf.js'>&lt;/script>
 &lt;style>
- #embed-pdf-container {
- position: relative;
- width: 100%;
- height: auto;
- min-height: 20vh;
- 
- }
- 
- .pdf-canvas {
+#the-canvas {
  border: 1px solid black;
  direction: ltr;
  width: 100%;
  height: auto;
  display: none;
- }
- 
- #the-canvas {
- border: 1px solid black;
- direction: ltr;
- width: 100%;
- height: auto;
+}
+
+#paginator {
  display: none;
- }
- 
- 
- .pdf-loadingWrapper {
+ text-align: center;
+ margin-bottom: 10px;
+}
+
+#loadingWrapper {
  display: none;
  justify-content: center;
  align-items: center;
  width: 100%;
  height: 350px;
- }
- 
- .pdf-loading {
+}
+
+#loading {
  display: inline-block;
  width: 50px;
  height: 50px;
@@ -550,106 +438,64 @@ Tactical Urbanism
  border-top-color: #383838;
  animation: spin 1s ease-in-out infinite;
  -webkit-animation: spin 1s ease-in-out infinite;
- }
- 
- 
- 
- 
- 
- #overlayText {
- word-wrap: break-word;
- display: grid;
- justify-content: end;
- }
- 
- #overlayText a {
- position: relative;
- top: 10px;
- right: 4px;
- color: #000;
- margin: auto;
- background-color: #eeeeee;
- padding: 0.3em 1em;
- border: solid 2px;
- border-radius: 12px;
- border-color: #00000030;
- text-decoration: none;
- }
- 
- #overlayText svg {
- height: clamp(1em, 2vw, 1.4em);
- width: clamp(1em, 2vw, 1.4em);
- }
- 
- 
- 
- @keyframes spin {
- to { -webkit-transform: rotate(360deg); }
- }
- @-webkit-keyframes spin {
- to { -webkit-transform: rotate(360deg); }
- }
- &lt;/style>&lt;div class="embed-pdf-container" id="embed-pdf-container-d1b2346d">
- &lt;div class="pdf-loadingWrapper" id="pdf-loadingWrapper-d1b2346d">
- &lt;div class="pdf-loading" id="pdf-loading-d1b2346d">&lt;/div>
- &lt;/div>
- &lt;div id="overlayText">
- &lt;a href="../../pdfs/9c_HardingSt_US63-Binder.pdf" aria-label="Download" download>
- &lt;svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
- &lt;path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
- &lt;/svg>
- &lt;/a>
- &lt;/div>
- &lt;canvas class="pdf-canvas" id="pdf-canvas-d1b2346d">&lt;/canvas>
-&lt;/div>
+}
 
-&lt;div class="pdf-paginator" id="pdf-paginator-d1b2346d">
- &lt;button id="pdf-prev-d1b2346d">Previous&lt;/button>
- &lt;button id="pdf-next-d1b2346d">Next&lt;/button> &amp;nbsp; &amp;nbsp;
- &lt;span>
- &lt;span class="pdf-pagenum" id="pdf-pagenum-d1b2346d">&lt;/span> / &lt;span class="pdf-pagecount" id="pdf-pagecount-d1b2346d">&lt;/span>
- &lt;/span>
- &lt;a class="pdf-source" id="pdf-source-d1b2346d" href="../../pdfs/9c_HardingSt_US63-Binder.pdf">[pdf]&lt;/a>
-&lt;/div>
+@keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+ to { -webkit-transform: rotate(360deg); }
+}
+&lt;/style>
 
-&lt;noscript>
-View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-d1b2346d" href="../../pdfs/9c_HardingSt_US63-Binder.pdf">here&lt;/a>.
-&lt;/noscript>
+&lt;div id="paginator">
+ &lt;button id="prev">Previous&lt;/button>
+ &lt;button id="next">Next&lt;/button>
+ &amp;nbsp; &amp;nbsp;
+ &lt;span>Page: &lt;span id="page_num">&lt;/span> / &lt;span id="page_count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div id="embed-pdf-container">
+ &lt;div id="loadingWrapper">
+ &lt;div id="loading">&lt;/div>
+ &lt;/div>
+ &lt;canvas id="the-canvas">&lt;/canvas>
+&lt;/div>
 
 &lt;script type="text/javascript">
- (function(){
- var url = '..\/..\/pdfs\/9c_HardingSt_US63-Binder.pdf';
+window.onload = function() {
 
- var hidePaginator = "" === "true";
- var hideLoader = "" === "true";
- var selectedPageNum = parseInt("") || 1;
 
- 
- var pdfjsLib = window['pdfjs-dist/build/pdf'];
+var url = "\/" + '..\/..\/pdfs\/9c_HardingSt_US63-Binder.pdf';
 
- 
- if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
- pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+var hidePaginator = "" === "true";
+var hideLoader = "" === "true";
+var selectedPageNum = parseInt("") || 1;
 
- 
- var pdfDoc = null,
+
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + '/js/pdf-js/build/pdf.worker.js';
+
+
+var pdfDoc = null,
  pageNum = selectedPageNum,
  pageRendering = false,
  pageNumPending = null,
  scale = 3,
- canvas = document.getElementById('pdf-canvas-d1b2346d'),
+ canvas = document.getElementById('the-canvas'),
  ctx = canvas.getContext('2d'),
- paginator = document.getElementById("pdf-paginator-d1b2346d"),
- loadingWrapper = document.getElementById('pdf-loadingWrapper-d1b2346d');
+ paginator = document.getElementById("paginator"),
+ loadingWrapper = document.getElementById('loadingWrapper');
 
 
- 
- showPaginator();
- showLoader();
 
- 
+showPaginator();
+showLoader();
 
- function renderPage(num) {
+
+
+function renderPage(num) {
  pageRendering = true;
  
  pdfDoc.getPage(num).then(function(page) {
@@ -668,7 +514,7 @@ View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-d1b2346d" hre
  renderTask.promise.then(function() {
  pageRendering = false;
  showContent();
-
+ 
  if (pageNumPending !== null) {
  
  renderPage(pageNumPending);
@@ -678,79 +524,80 @@ View the PDF file &lt;a class="pdf-source" id="pdf-source-noscript-d1b2346d" hre
  });
 
  
- document.getElementById('pdf-pagenum-d1b2346d').textContent = num;
- }
+ document.getElementById('page_num').textContent = num;
+}
 
- 
 
- function showContent() {
+
+function showContent() {
  loadingWrapper.style.display = 'none';
  canvas.style.display = 'block';
- }
+}
 
- 
 
- function showLoader() {
- if(hideLoader) return
+
+function showLoader() {
+ if (hideLoader) return
  loadingWrapper.style.display = 'flex';
  canvas.style.display = 'none';
- }
+}
 
- 
 
- function showPaginator() {
+
+function showPaginator() {
  if(hidePaginator) return
  paginator.style.display = 'block';
- }
+}
 
- 
 
- function queueRenderPage(num) {
+
+function queueRenderPage(num) {
  if (pageRendering) {
  pageNumPending = num;
  } else {
  renderPage(num);
  }
- }
+}
 
- 
 
- function onPrevPage() {
+
+function onPrevPage() {
  if (pageNum &lt;= 1) {
  return;
  }
  pageNum--;
  queueRenderPage(pageNum);
- }
- document.getElementById('pdf-prev-d1b2346d').addEventListener('click', onPrevPage);
+}
+document.getElementById('prev').addEventListener('click', onPrevPage);
 
- 
 
- function onNextPage() {
+
+function onNextPage() {
  if (pageNum >= pdfDoc.numPages) {
  return;
  }
  pageNum++;
  queueRenderPage(pageNum);
- }
- document.getElementById('pdf-next-d1b2346d').addEventListener('click', onNextPage);
+}
+document.getElementById('next').addEventListener('click', onNextPage);
 
- 
 
- pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
  pdfDoc = pdfDoc_;
  var numPages = pdfDoc.numPages;
- document.getElementById('pdf-pagecount-d1b2346d').textContent = numPages;
-
+ document.getElementById('page_count').textContent = numPages;
  
- if(pageNum > numPages) {
+ 
+ if (pageNum > numPages) {
  pageNum = numPages
  }
 
  
  renderPage(pageNum);
- });
- })();
+});
+}
+
 &lt;/script></description></item><item><title>Tama-Toledo: 17th Street at US 63 (9d)</title><link>/plan/tama-toledo-17th-street-at-us-63/</link><pubDate>Fri, 10 Dec 2021 08:33:29 -0600</pubDate><guid>/plan/tama-toledo-17th-street-at-us-63/</guid><description>&lt;p>This plan, &lt;strong>9d&lt;/strong>, designated for participation by both communities, includes a pedestrian crossing of busy US 63 at 17th Street in Tama, and sidewalk access along US 63 and 17th Street connecting the STC campus to northern portions of Tama&amp;rsquo;s sidewalk network, Tama&amp;rsquo;s Oak Park, southern portions of Toledo&amp;rsquo;s sidewalk network, and the STC Administration Building.&lt;/p>
 &lt;p>Two solution options were proposed at this location:&lt;/p>
 &lt;ul>
