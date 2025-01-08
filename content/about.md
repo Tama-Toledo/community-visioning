@@ -11,9 +11,9 @@ Iowa is perhaps the only state in the U.S. that has a sustained [Community Visio
 
 &nbsp;  
 
-# HATs - The Tama-Toledo Hometown Action Team
+# HAT - The Tama-Toledo Hometown Action Team
 
-HATs is the new name for what was originally "Tama-Toledo Community Visioning".  Our mission and vision, refined since 2021 are...
+HAT is short for "Hometown Action Team", the new name for what was originally "Tama-Toledo Community Visioning".  Our mission and vision statements, refined since 2021 are...
 
 `Mission Statement`: We seek to provide safe and accessible pedestrian travel throughout our communities.  
 
